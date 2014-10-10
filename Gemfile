@@ -5,3 +5,4 @@ gemspec
 
 gem 'yard-ghpages', git: 'https://github.com/bcavileer/yard-ghpages.git'
 gem 'redcarpet'
+gem 'codeclimate-test-reporter', group: :test, require: nil
