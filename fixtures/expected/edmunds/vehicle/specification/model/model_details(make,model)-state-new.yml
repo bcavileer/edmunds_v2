@@ -1,0 +1,354 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+id: BMW_3_Series
+name: 3 Series
+niceName: 3-series
+years:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 100535269
+  year: 2013
+  styles:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423471
+    name: 328i xDrive 2dr Coupe AWD (3.0L 6cyl 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Coupe
+      modelName: 3 Series Coupe
+      niceName: coupe
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423469
+    name: 328i 4dr Sedan (2.0L 4cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423467
+    name: 328i 2dr Convertible (3.0L 6cyl 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Convertible
+      modelName: 3 Series Convertible
+      niceName: convertible
+    trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423468
+    name: 328i 2dr Coupe (3.0L 6cyl 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Coupe
+      modelName: 3 Series Coupe
+      niceName: coupe
+    trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 101414454
+    name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Hybrid
+      modelName: 3 Series Hybrid
+      niceName: hybrid
+    trim: ActiveHybrid 3
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423804
+    name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423805
+    name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200459518
+    name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423478
+    name: 335is 2dr Coupe (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Coupe
+      modelName: 3 Series Coupe
+      niceName: coupe
+    trim: 335is
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200460586
+    name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423477
+    name: 335is 2dr Convertible (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Convertible
+      modelName: 3 Series Convertible
+      niceName: convertible
+    trim: 335is
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423476
+    name: 335i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Coupe
+      modelName: 3 Series Coupe
+      niceName: coupe
+    trim: 335i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423475
+    name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423474
+    name: 335i 2dr Coupe (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Coupe
+      modelName: 3 Series Coupe
+      niceName: coupe
+    trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200423473
+    name: 335i 2dr Convertible (3.0L 6cyl Turbo 6M)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Convertible
+      modelName: 3 Series Convertible
+      niceName: convertible
+    trim: 335i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200468552
+  year: 2014
+  styles:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489829
+    name: 328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489830
+    name: 328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489817
+    name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489831
+    name: 335i 4dr Sedan (3.0L 6cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489818
+    name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489823
+    name: 328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i SULEV
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489825
+    name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489821
+    name: 328i 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489827
+    name: 328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i xDrive SULEV
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200468555
+    name: 328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Wagon
+      modelName: 3 Series Wagon
+      niceName: wagon
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489833
+    name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489782
+    name: 328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Wagon
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200489835
+    name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Hybrid
+      modelName: 3 Series Hybrid
+      niceName: hybrid
+    trim: ActiveHybrid 3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200704009
+  year: 2015
+  styles:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704023
+    name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Hybrid
+      modelName: 3 Series Hybrid
+      niceName: hybrid
+    trim: ActiveHybrid 3
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704024
+    name: 328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Wagon
+      modelName: 3 Series Wagon
+      niceName: wagon
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704021
+    name: 335i 4dr Sedan (3.0L 6cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704022
+    name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 335i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704019
+    name: 328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704020
+    name: 328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704017
+    name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704018
+    name: 328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i xDrive SULEV
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704016
+    name: 328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i SULEV
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704015
+    name: 328i 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704014
+    name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704013
+    name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Sedan
+      modelName: 3 Series Sedan
+      niceName: sedan
+    trim: 320i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704025
+    name: 328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)
+    submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      body: Wagon
+      fuel: Diesel
+      modelName: 3 Series Diesel
+      niceName: diesel
+    trim: 328d xDrive

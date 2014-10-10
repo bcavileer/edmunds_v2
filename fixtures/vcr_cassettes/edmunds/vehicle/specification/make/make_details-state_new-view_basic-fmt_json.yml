@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw?api_key=EDMUNDS_API_KEY&fmt=json&state=new&view=basic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 18:15:09 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1e-49.mashery.com
+      Content-Length:
+      - '4125'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"id":200000081,"name":"BMW","niceName":"bmw","models":[{"id":"BMW_1_Series","name":"1
+        Series","niceName":"1-series","years":[{"id":200421700,"year":2013}]},{"id":"BMW_2_Series","name":"2
+        Series","niceName":"2-series","years":[{"id":200467976,"year":2014},{"id":200676054,"year":2015}]},{"id":"BMW_3_Series","name":"3
+        Series","niceName":"3-series","years":[{"id":100535269,"year":2013},{"id":200468552,"year":2014},{"id":200704009,"year":2015}]},{"id":"BMW_3_Series_Gran_Turismo","name":"3
+        Series Gran Turismo","niceName":"3-series-gran-turismo","years":[{"id":200461849,"year":2014},{"id":200706926,"year":2015}]},{"id":"BMW_4_Series","name":"4
+        Series","niceName":"4-series","years":[{"id":200466555,"year":2014},{"id":200704560,"year":2015}]},{"id":"BMW_4_Series_Gran_Coupe","name":"4
+        Series Gran Coupe","niceName":"4-series-gran-coupe","years":[{"id":200676095,"year":2015}]},{"id":"BMW_5_Series","name":"5
+        Series","niceName":"5-series","years":[{"id":200429164,"year":2013},{"id":200474272,"year":2014},{"id":200705185,"year":2015}]},{"id":"BMW_5_Series_Gran_Turismo","name":"5
+        Series Gran Turismo","niceName":"5-series-gran-turismo","years":[{"id":200443305,"year":2013},{"id":200474280,"year":2014},{"id":200708879,"year":2015}]},{"id":"BMW_6_Series","name":"6
+        Series","niceName":"6-series","years":[{"id":200429532,"year":2013},{"id":200470631,"year":2014},{"id":200694223,"year":2015}]},{"id":"BMW_6_Series_Gran_Coupe","name":"6
+        Series Gran Coupe","niceName":"6-series-gran-coupe","years":[{"id":100539109,"year":2013},{"id":200471738,"year":2014},{"id":200692802,"year":2015}]},{"id":"BMW_7_Series","name":"7
+        Series","niceName":"7-series","years":[{"id":200429759,"year":2013},{"id":200495598,"year":2014},{"id":200692022,"year":2015}]},{"id":"BMW_ALPINA_B6_Gran_Coupe","name":"ALPINA
+        B6 Gran Coupe","niceName":"alpina-b6-gran-coupe","years":[{"id":200710296,"year":2015}]},{"id":"BMW_ALPINA_B7","name":"ALPINA
+        B7","niceName":"alpina-b7","years":[{"id":200491671,"year":2014},{"id":200710062,"year":2015}]},{"id":"BMW_ActiveHybrid_5","name":"ActiveHybrid
+        5","niceName":"activehybrid-5","years":[{"id":200492996,"year":2014},{"id":200708037,"year":2015}]},{"id":"BMW_ActiveHybrid_7","name":"ActiveHybrid
+        7","niceName":"activehybrid-7","years":[{"id":200429760,"year":2013},{"id":200494174,"year":2014},{"id":200708685,"year":2015}]},{"id":"BMW_M3","name":"M3","niceName":"m3","years":[{"id":200429366,"year":2013},{"id":200498619,"year":2015}]},{"id":"BMW_M4","name":"M4","niceName":"m4","years":[{"id":200481162,"year":2015}]},{"id":"BMW_M5","name":"M5","niceName":"m5","years":[{"id":100539329,"year":2013},{"id":200474287,"year":2014},{"id":200708834,"year":2015}]},{"id":"BMW_M6","name":"M6","niceName":"m6","years":[{"id":100535229,"year":2013},{"id":200470935,"year":2014},{"id":200695358,"year":2015}]},{"id":"BMW_M6_Gran_Coupe","name":"M6
+        Gran Coupe","niceName":"m6-gran-coupe","years":[{"id":200459377,"year":2014},{"id":200695679,"year":2015}]},{"id":"BMW_X1","name":"X1","niceName":"x1","years":[{"id":200421197,"year":2013},{"id":200468712,"year":2014},{"id":200692104,"year":2015}]},{"id":"BMW_X3","name":"X3","niceName":"x3","years":[{"id":200420852,"year":2013},{"id":200469991,"year":2014},{"id":200677383,"year":2015}]},{"id":"BMW_X4","name":"X4","niceName":"x4","years":[{"id":200678188,"year":2015}]},{"id":"BMW_X5","name":"X5","niceName":"x5","years":[{"id":200420450,"year":2013},{"id":200474294,"year":2014},{"id":200706472,"year":2015}]},{"id":"BMW_X5_M","name":"X5
+        M","niceName":"x5-m","years":[{"id":200420543,"year":2013}]},{"id":"BMW_X6","name":"X6","niceName":"x6","years":[{"id":100539230,"year":2013},{"id":200471383,"year":2014},{"id":200699117,"year":2015}]},{"id":"BMW_X6_M","name":"X6
+        M","niceName":"x6-m","years":[{"id":100539251,"year":2013},{"id":200471529,"year":2014}]},{"id":"BMW_Z4","name":"Z4","niceName":"z4","years":[{"id":200440365,"year":2013},{"id":200470406,"year":2014},{"id":200692190,"year":2015}]},{"id":"BMW_i3","name":"i3","niceName":"i3","years":[{"id":200460080,"year":2014}]},{"id":"BMW_i8","name":"i8","niceName":"i8","years":[{"id":200489696,"year":2014}]}]}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:19 GMT
+recorded_with: VCR 2.9.3

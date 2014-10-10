@@ -1,0 +1,462 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw/3-series/years?api_key=EDMUNDS_API_KEY&fmt=json&view=basic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 15:36:39 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1d-54.mashery.com
+      Content-Length:
+      - '39325'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"years":[{"id":3328,"year":1990,"styles":[{"id":222,"name":"325iX
+        4dr Sedan AWD","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325iX"},{"id":220,"name":"325iX
+        2dr Coupe AWD","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325iX"},{"id":218,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"},{"id":215,"name":"325i
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325i"},{"id":216,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":213,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"}]},{"id":3329,"year":1991,"styles":[{"id":189,"name":"325i
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325i"},{"id":192,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":186,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":187,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"},{"id":184,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"},{"id":196,"name":"325iX
+        4dr Sedan AWD","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325iX"},{"id":195,"name":"325iX
+        2dr Coupe AWD","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325iX"},{"id":14186,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":3330,"year":1992,"styles":[{"id":160,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":158,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"},{"id":165,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":167,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"},{"id":162,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"},{"id":163,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":909,"year":1993,"styles":[{"id":139,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"},{"id":137,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":141,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"},{"id":135,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":133,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"}]},{"id":3331,"year":1994,"styles":[{"id":106,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":108,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"},{"id":110,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"},{"id":100,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":102,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":104,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"}]},{"id":3209,"year":1995,"styles":[{"id":71,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":69,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":67,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"},{"id":65,"name":"318ti
+        2dr Hatchback","submodel":{"body":"Hatchback","modelName":"3 Series Hatchback","niceName":"hatchback"},"trim":"318ti"},{"id":61,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"},{"id":63,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":73,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"}]},{"id":910,"year":1996,"styles":[{"id":38,"name":"328i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":34,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":36,"name":"318ti
+        2dr Hatchback","submodel":{"body":"Hatchback","modelName":"3 Series Hatchback","niceName":"hatchback"},"trim":"318ti"},{"id":45,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":46,"name":"328is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"328is"},{"id":32,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"},{"id":42,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"}]},{"id":3210,"year":1997,"styles":[{"id":17781,"name":"328i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":17779,"name":"318is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"318is"},{"id":2969,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":17780,"name":"328is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"328is"},{"id":17796,"name":"318i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"318i"},{"id":17778,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":643,"name":"318ti
+        2dr Hatchback","submodel":{"body":"Hatchback","modelName":"3 Series Hatchback","niceName":"hatchback"},"trim":"318ti"}]},{"id":3211,"year":1998,"styles":[{"id":17328,"name":"328i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":17326,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":17325,"name":"323is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"323is"},{"id":17324,"name":"323i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"323i"},{"id":17323,"name":"318ti
+        2dr Hatchback","submodel":{"body":"Hatchback","modelName":"3 Series Hatchback","niceName":"hatchback"},"trim":"318ti"},{"id":17321,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":17330,"name":"328is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"328is"}]},{"id":963,"year":1999,"styles":[{"id":11498,"name":"323i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"323i"},{"id":11500,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":12263,"name":"328is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"328is"},{"id":12252,"name":"318ti
+        2dr Hatchback","submodel":{"body":"Hatchback","modelName":"3 Series Hatchback","niceName":"hatchback"},"trim":"318ti"},{"id":3695,"name":"328i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":12272,"name":"323i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"323i"},{"id":12270,"name":"323is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"323is"}]},{"id":1118,"year":2000,"styles":[{"id":13012,"name":"323iT
+        4dr Wagon","submodel":{"body":"Wagon","modelName":"3 Series Wagon","niceName":"wagon"},"trim":"323iT"},{"id":13011,"name":"323Ci
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"323Ci"},{"id":10588,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":10587,"name":"323i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"323i"},{"id":10586,"name":"328Ci
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"328Ci"},{"id":10585,"name":"323Ci
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"323Ci"}]},{"id":100000021,"year":2001,"styles":[{"id":100000470,"name":"325i
+        Rwd 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325i"},{"id":100000469,"name":"325i
+        Rwd 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100000472,"name":"325xi AWD
+        4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325xi"},{"id":100000471,"name":"325xi
+        AWD 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100000541,"name":"325Ci Rwd
+        2dr Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"},{"id":100000542,"name":"325Ci
+        Rwd 2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100000474,"name":"330Ci Rwd
+        2dr Coupe (3.0L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"},{"id":100000473,"name":"330Ci Rwd
+        2dr Convertible (3.0L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100000476,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100000475,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"}]},{"id":100000457,"year":2002,"styles":[{"id":100003671,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100003669,"name":"330Ci Rwd
+        2dr Coupe (3.0L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"},{"id":100003670,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100003667,"name":"325xi AWD
+        4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325xi"},{"id":100003668,"name":"330Ci
+        Rwd 2dr Convertible (3.0L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100003665,"name":"325i
+        Rwd 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325i"},{"id":100003666,"name":"325xi
+        AWD 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100003664,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100003663,"name":"325Ci Rwd
+        2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100003662,"name":"325Ci Rwd
+        2dr Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"}]},{"id":100502723,"year":2003,"styles":[{"id":100180617,"name":"325xi
+        AWD 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100180633,"name":"325Ci Rwd
+        2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100180618,"name":"325i Rwd
+        4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325i"},{"id":100261369,"name":"330i
+        Rwd 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100180637,"name":"325Ci Rwd
+        2dr Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"},{"id":100180623,"name":"325xi
+        AWD 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325xi"},{"id":100180665,"name":"330Ci
+        Rwd 2dr Convertible (3.0L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100274636,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100180664,"name":"330Ci Rwd
+        2dr Coupe (3.0L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"},{"id":100180659,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100180658,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100180616,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":100503217,"year":2004,"styles":[{"id":100351179,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100351177,"name":"325xi AWD
+        4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325xi"},{"id":100351178,"name":"330i
+        Rwd 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100351175,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100273738,"name":"325Ci Rwd
+        2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100273737,"name":"325Ci Rwd
+        2dr Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"},{"id":100351176,"name":"325i
+        Rwd 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325i"},{"id":100273740,"name":"330Ci
+        Rwd 2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100351174,"name":"325i
+        Rwd 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100273739,"name":"330Ci Rwd
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"}]},{"id":100503250,"year":2005,"styles":[{"id":100469137,"name":"325Ci
+        Rwd 2dr Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"},{"id":100469138,"name":"330Ci
+        Rwd 2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"},{"id":100469139,"name":"330Ci Rwd
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100469130,"name":"325i
+        Rwd 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325i"},{"id":100469131,"name":"325xi
+        AWD 4dr Sport Wagon (2.5L 6cyl 5M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"325xi"},{"id":100469134,"name":"330i
+        Rwd 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100467103,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100469136,"name":"325Ci Rwd
+        2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100469135,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100467104,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"}]},{"id":100504903,"year":2006,"styles":[{"id":100652317,"name":"330Ci
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"330Ci"},{"id":100652318,"name":"330Ci 2dr
+        Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"330Ci"},{"id":100652315,"name":"325Ci
+        2dr Coupe (2.5L 6cyl 5M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"325Ci"},{"id":100652316,"name":"325Ci 2dr
+        Convertible (2.5L 6cyl 5M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"325Ci"},{"id":100652314,"name":"330xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100530523,"name":"325i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":100652311,"name":"325xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100530524,"name":"330i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"330i"},{"id":100645586,"name":"325xi
+        4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"325xi"}]},{"id":100507019,"year":2007,"styles":[{"id":100864160,"name":"335xi
+        4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335xi"},{"id":100814247,"name":"328xi
+        4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328xi"},{"id":100814246,"name":"328i 4dr
+        Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series Wagon","niceName":"wagon"},"trim":"328i"},{"id":100861724,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":100814245,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":100861725,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":100814244,"name":"328xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328xi"},{"id":100814243,"name":"328i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":100775893,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":100775891,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":100775892,"name":"328xi 2dr
+        Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328xi"}]},{"id":100524310,"year":2008,"styles":[{"id":100946472,"name":"328xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328xi"},{"id":100946471,"name":"328i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":100946470,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":100946469,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":100946468,"name":"335xi
+        2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335xi"},{"id":100946384,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":100946386,"name":"335i 2dr
+        Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"335i"},{"id":100946385,"name":"328xi 2dr
+        Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328xi"},{"id":100946476,"name":"328xi 4dr
+        Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328xi"},{"id":100946475,"name":"328i 4dr
+        Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series Wagon","niceName":"wagon"},"trim":"328i"},{"id":100946474,"name":"335xi
+        4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335xi"},{"id":100946473,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"}]},{"id":100524793,"year":2009,"styles":[{"id":101082769,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":101082770,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101082771,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101082772,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101082773,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":101082774,"name":"328i
+        4dr Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i"},{"id":101082775,"name":"328i xDrive
+        4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":101125747,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"},{"id":101082764,"name":"328i
+        xDrive 2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"328i xDrive"},{"id":101082763,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101082765,"name":"335i 2dr
+        Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"335i"},{"id":101082768,"name":"328i 2dr
+        Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":101082767,"name":"335i
+        xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"}]},{"id":100529029,"year":2010,"styles":[{"id":101200929,"name":"328i
+        xDrive 2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"328i xDrive"},{"id":101200945,"name":"328i
+        xDrive 4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":101200930,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":101200931,"name":"335i
+        xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"},{"id":101200937,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":101200928,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101200938,"name":"335i 2dr
+        Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":101200939,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101200940,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101200941,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101200942,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":101200943,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"},{"id":101200944,"name":"328i
+        4dr Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i"}]},{"id":100531052,"year":2011,"styles":[{"id":101288728,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":101288753,"name":"328i
+        xDrive 4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":101288727,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":101288736,"name":"335is
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335is"},{"id":101288741,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"},{"id":101288665,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":101288737,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101288738,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101276754,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101288666,"name":"335i xDrive
+        2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"},{"id":101288739,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101288710,"name":"335is
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335is"},{"id":101288740,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":101288752,"name":"328i
+        4dr Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i"},{"id":101288664,"name":"328i xDrive
+        2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i xDrive"}]},{"id":100538029,"year":2012,"styles":[{"id":101411287,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":101411288,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"},{"id":101386360,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":101420164,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101411143,"name":"335is
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335is"},{"id":101411295,"name":"328i
+        4dr Wagon (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i"},{"id":101411296,"name":"328i xDrive
+        4dr Wagon AWD (3.0L 6cyl 6M)","submodel":{"body":"Wagon","modelName":"3 Series
+        Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":101411141,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":101411294,"name":"335is
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335is"},{"id":101411142,"name":"335i
+        xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"},{"id":101411139,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101411140,"name":"328i xDrive
+        2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i xDrive"}]},{"id":100535269,"year":2013,"styles":[{"id":200423471,"name":"328i
+        xDrive 2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"328i xDrive"},{"id":200423469,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200423467,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":200423468,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101414454,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200423804,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200423805,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200459518,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200423478,"name":"335is
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335is"},{"id":200460586,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200423477,"name":"335is
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335is"},{"id":200423476,"name":"335i
+        xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"},{"id":200423475,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200423474,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":200423473,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"}]},{"id":200468552,"year":2014,"styles":[{"id":200489829,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200489830,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200489817,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200489831,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200489818,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200489823,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200489825,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200489821,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200489827,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200468555,"name":"328i
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":200489833,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200489782,"name":"328d
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Wagon","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200489835,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"}]},{"id":200704009,"year":2015,"styles":[{"id":200704023,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200704024,"name":"328i
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":200704021,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200704022,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200704019,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200704020,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200704017,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200704018,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200704016,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200704015,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200704014,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200704013,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200704025,"name":"328d
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Wagon","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"}]}],"yearsCount":26}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:50 GMT
+recorded_with: VCR 2.9.3

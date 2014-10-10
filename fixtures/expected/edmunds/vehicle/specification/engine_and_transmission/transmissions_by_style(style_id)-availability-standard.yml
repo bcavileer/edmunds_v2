@@ -1,0 +1,11 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+transmissions:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: '200478101'
+  name: 8A
+  equipmentType: TRANSMISSION
+  availability: STANDARD
+  automaticType: Shiftable automatic
+  transmissionType: AUTOMATIC
+  numberOfSpeeds: '8'
+transmissionsCount: 1

@@ -1,0 +1,63 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw?api_key=EDMUNDS_API_KEY&fmt=json&view=basic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 18:15:08 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1d-47.mashery.com
+      Content-Length:
+      - '10376'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"id":200000081,"name":"BMW","niceName":"bmw","models":[{"id":"BMW_1_Series","name":"1
+        Series","niceName":"1-series","years":[{"id":100524709,"year":2008},{"id":100503222,"year":2009},{"id":100529091,"year":2010},{"id":100531309,"year":2011},{"id":100534729,"year":2012},{"id":200421700,"year":2013}]},{"id":"BMW_1_Series_M","name":"1
+        Series M","niceName":"1-series-m","years":[{"id":100534409,"year":2011}]},{"id":"BMW_2_Series","name":"2
+        Series","niceName":"2-series","years":[{"id":200467976,"year":2014},{"id":200676054,"year":2015}]},{"id":"BMW_2_Series_Active_Tourer","name":"2
+        Series Active Tourer","niceName":"2-series-active-tourer","years":[{"id":200678226,"year":2016}]},{"id":"BMW_3_Series","name":"3
+        Series","niceName":"3-series","years":[{"id":3328,"year":1990},{"id":3329,"year":1991},{"id":3330,"year":1992},{"id":909,"year":1993},{"id":3331,"year":1994},{"id":3209,"year":1995},{"id":910,"year":1996},{"id":3210,"year":1997},{"id":3211,"year":1998},{"id":963,"year":1999},{"id":1118,"year":2000},{"id":100000021,"year":2001},{"id":100000457,"year":2002},{"id":100502723,"year":2003},{"id":100503217,"year":2004},{"id":100503250,"year":2005},{"id":100504903,"year":2006},{"id":100507019,"year":2007},{"id":100524310,"year":2008},{"id":100524793,"year":2009},{"id":100529029,"year":2010},{"id":100531052,"year":2011},{"id":100538029,"year":2012},{"id":100535269,"year":2013},{"id":200468552,"year":2014},{"id":200704009,"year":2015}]},{"id":"BMW_3_Series_Gran_Turismo","name":"3
+        Series Gran Turismo","niceName":"3-series-gran-turismo","years":[{"id":200461849,"year":2014},{"id":200706926,"year":2015}]},{"id":"BMW_4_Series","name":"4
+        Series","niceName":"4-series","years":[{"id":200466555,"year":2014},{"id":200704560,"year":2015}]},{"id":"BMW_4_Series_Gran_Coupe","name":"4
+        Series Gran Coupe","niceName":"4-series-gran-coupe","years":[{"id":200676095,"year":2015}]},{"id":"BMW_5_Series","name":"5
+        Series","niceName":"5-series","years":[{"id":3213,"year":1990},{"id":3214,"year":1991},{"id":911,"year":1992},{"id":3215,"year":1993},{"id":3216,"year":1994},{"id":912,"year":1995},{"id":3217,"year":1997},{"id":3218,"year":1998},{"id":3417,"year":1999},{"id":1124,"year":2000},{"id":100000022,"year":2001},{"id":100000458,"year":2002},{"id":100502694,"year":2003},{"id":100502695,"year":2004},{"id":100505111,"year":2005},{"id":100505142,"year":2006},{"id":100507623,"year":2007},{"id":100522929,"year":2008},{"id":100526330,"year":2009},{"id":100528109,"year":2010},{"id":100520104,"year":2011},{"id":100537809,"year":2012},{"id":200429164,"year":2013},{"id":200474272,"year":2014},{"id":200705185,"year":2015}]},{"id":"BMW_5_Series_Gran_Turismo","name":"5
+        Series Gran Turismo","niceName":"5-series-gran-turismo","years":[{"id":100530649,"year":2010},{"id":100533094,"year":2011},{"id":100539029,"year":2012},{"id":200443305,"year":2013},{"id":200474280,"year":2014},{"id":200708879,"year":2015}]},{"id":"BMW_6_Series","name":"6
+        Series","niceName":"6-series","years":[{"id":100502937,"year":2004},{"id":100505112,"year":2005},{"id":100506802,"year":2006},{"id":100520229,"year":2007},{"id":100524490,"year":2008},{"id":100526321,"year":2009},{"id":100528069,"year":2010},{"id":100531910,"year":2012},{"id":200429532,"year":2013},{"id":200470631,"year":2014},{"id":200694223,"year":2015}]},{"id":"BMW_6_Series_Gran_Coupe","name":"6
+        Series Gran Coupe","niceName":"6-series-gran-coupe","years":[{"id":100539109,"year":2013},{"id":200471738,"year":2014},{"id":200692802,"year":2015}]},{"id":"BMW_7_Series","name":"7
+        Series","niceName":"7-series","years":[{"id":3220,"year":1990},{"id":914,"year":1991},{"id":3221,"year":1992},{"id":3222,"year":1993},{"id":915,"year":1994},{"id":3223,"year":1995},{"id":3224,"year":1996},{"id":3225,"year":1997},{"id":916,"year":1998},{"id":3418,"year":1999},{"id":1241,"year":2000},{"id":100000023,"year":2001},{"id":100000459,"year":2002},{"id":100502724,"year":2003},{"id":100503649,"year":2004},{"id":100504124,"year":2005},{"id":100505546,"year":2006},{"id":100507499,"year":2007},{"id":100519521,"year":2008},{"id":100525990,"year":2009},{"id":100522593,"year":2010},{"id":100531089,"year":2011},{"id":100534810,"year":2012},{"id":200429759,"year":2013},{"id":200495598,"year":2014},{"id":200692022,"year":2015}]},{"id":"BMW_8_Series","name":"8
+        Series","niceName":"8-series","years":[{"id":3226,"year":1991},{"id":3227,"year":1992},{"id":3228,"year":1993},{"id":3229,"year":1994},{"id":3230,"year":1995},{"id":3231,"year":1996},{"id":3232,"year":1997}]},{"id":"BMW_ALPINA_B6_Gran_Coupe","name":"ALPINA
+        B6 Gran Coupe","niceName":"alpina-b6-gran-coupe","years":[{"id":200710296,"year":2015}]},{"id":"BMW_ALPINA_B7","name":"ALPINA
+        B7","niceName":"alpina-b7","years":[{"id":100522567,"year":2007},{"id":100524449,"year":2008},{"id":100531129,"year":2011},{"id":100534749,"year":2012},{"id":200491671,"year":2014},{"id":200710062,"year":2015}]},{"id":"BMW_ActiveHybrid_5","name":"ActiveHybrid
+        5","niceName":"activehybrid-5","years":[{"id":100531252,"year":2012},{"id":200492996,"year":2014},{"id":200708037,"year":2015}]},{"id":"BMW_ActiveHybrid_7","name":"ActiveHybrid
+        7","niceName":"activehybrid-7","years":[{"id":100530789,"year":2011},{"id":100538889,"year":2012},{"id":200429760,"year":2013},{"id":200494174,"year":2014},{"id":200708685,"year":2015}]},{"id":"BMW_ActiveHybrid_X6","name":"ActiveHybrid
+        X6","niceName":"activehybrid-x6","years":[{"id":100530689,"year":2010},{"id":100532310,"year":2011}]},{"id":"BMW_Alpina","name":"Alpina","niceName":"alpina","years":[{"id":100503115,"year":2003}]},{"id":"BMW_M","name":"M","niceName":"m","years":[{"id":964,"year":1998},{"id":3419,"year":1999},{"id":1243,"year":2000},{"id":100000301,"year":2001},{"id":100000460,"year":2002},{"id":100507419,"year":2006}]},{"id":"BMW_M3","name":"M3","niceName":"m3","years":[{"id":100002612,"year":1990},{"id":100503333,"year":1991},{"id":100503359,"year":1995},{"id":100503368,"year":1996},{"id":100503378,"year":1997},{"id":100503388,"year":1998},{"id":3420,"year":1999},{"id":100000302,"year":2001},{"id":100000461,"year":2002},{"id":100502726,"year":2003},{"id":100503650,"year":2004},{"id":100505116,"year":2005},{"id":100506740,"year":2006},{"id":100504625,"year":2008},{"id":100522874,"year":2009},{"id":100529689,"year":2010},{"id":100531349,"year":2011},{"id":100537910,"year":2012},{"id":200429366,"year":2013},{"id":200498619,"year":2015}]},{"id":"BMW_M4","name":"M4","niceName":"m4","years":[{"id":200481162,"year":2015}]},{"id":"BMW_M5","name":"M5","niceName":"m5","years":[{"id":100503334,"year":1991},{"id":917,"year":1992},{"id":100503348,"year":1993},{"id":952,"year":2000},{"id":100000474,"year":2001},{"id":100000465,"year":2002},{"id":100502727,"year":2003},{"id":100503284,"year":2006},{"id":100520310,"year":2007},{"id":100522949,"year":2008},{"id":100526389,"year":2009},{"id":100520105,"year":2010},{"id":100539329,"year":2013},{"id":200474287,"year":2014},{"id":200708834,"year":2015}]},{"id":"BMW_M6","name":"M6","niceName":"m6","years":[{"id":100504624,"year":2006},{"id":100505835,"year":2007},{"id":100524534,"year":2008},{"id":100526390,"year":2009},{"id":100528090,"year":2010},{"id":100535229,"year":2013},{"id":200470935,"year":2014},{"id":200695358,"year":2015}]},{"id":"BMW_M6_Gran_Coupe","name":"M6
+        Gran Coupe","niceName":"m6-gran-coupe","years":[{"id":200459377,"year":2014},{"id":200695679,"year":2015}]},{"id":"BMW_X1","name":"X1","niceName":"x1","years":[{"id":200421197,"year":2013},{"id":200468712,"year":2014},{"id":200692104,"year":2015}]},{"id":"BMW_X3","name":"X3","niceName":"x3","years":[{"id":100502958,"year":2004},{"id":100505113,"year":2005},{"id":100506879,"year":2006},{"id":100519042,"year":2007},{"id":100524531,"year":2008},{"id":100526391,"year":2009},{"id":100523695,"year":2010},{"id":100531210,"year":2011},{"id":100537929,"year":2012},{"id":200420852,"year":2013},{"id":200469991,"year":2014},{"id":200677383,"year":2015}]},{"id":"BMW_X4","name":"X4","niceName":"x4","years":[{"id":200678188,"year":2015}]},{"id":"BMW_X5","name":"X5","niceName":"x5","years":[{"id":1086,"year":2000},{"id":100000026,"year":2001},{"id":100000462,"year":2002},{"id":100502728,"year":2003},{"id":100503550,"year":2004},{"id":100505114,"year":2005},{"id":100506841,"year":2006},{"id":100505528,"year":2007},{"id":100524530,"year":2008},{"id":100524794,"year":2009},{"id":100529929,"year":2010},{"id":100531353,"year":2011},{"id":100534709,"year":2012},{"id":200420450,"year":2013},{"id":200474294,"year":2014},{"id":200706472,"year":2015}]},{"id":"BMW_X5_M","name":"X5
+        M","niceName":"x5-m","years":[{"id":100527689,"year":2010},{"id":100531389,"year":2011},{"id":100534669,"year":2012},{"id":200420543,"year":2013}]},{"id":"BMW_X6","name":"X6","niceName":"x6","years":[{"id":100525009,"year":2008},{"id":100522286,"year":2009},{"id":100529949,"year":2010},{"id":100531354,"year":2011},{"id":100534809,"year":2012},{"id":100539230,"year":2013},{"id":200471383,"year":2014},{"id":200699117,"year":2015}]},{"id":"BMW_X6_M","name":"X6
+        M","niceName":"x6-m","years":[{"id":100527690,"year":2010},{"id":100531355,"year":2011},{"id":100534670,"year":2012},{"id":100539251,"year":2013},{"id":200471529,"year":2014}]},{"id":"BMW_X7","name":"X7","niceName":"x7","years":[{"id":200692628,"year":2016}]},{"id":"BMW_Z3","name":"Z3","niceName":"z3","years":[{"id":918,"year":1996},{"id":3234,"year":1997},{"id":3235,"year":1998},{"id":965,"year":1999},{"id":1244,"year":2000},{"id":100000024,"year":2001},{"id":100000463,"year":2002}]},{"id":"BMW_Z4","name":"Z4","niceName":"z4","years":[{"id":100502951,"year":2003},{"id":100502948,"year":2004},{"id":100505115,"year":2005},{"id":100506842,"year":2006},{"id":100506805,"year":2007},{"id":100524510,"year":2008},{"id":100526393,"year":2009},{"id":100523696,"year":2010},{"id":100531329,"year":2011},{"id":100538430,"year":2012},{"id":200440365,"year":2013},{"id":200470406,"year":2014},{"id":200692190,"year":2015}]},{"id":"BMW_Z4_M","name":"Z4
+        M","niceName":"z4-m","years":[{"id":100520346,"year":2007},{"id":100524533,"year":2008}]},{"id":"BMW_Z8","name":"Z8","niceName":"z8","years":[{"id":208,"year":2000},{"id":100000025,"year":2001},{"id":100000464,"year":2002},{"id":100502730,"year":2003}]},{"id":"BMW_i3","name":"i3","niceName":"i3","years":[{"id":200460080,"year":2014}]},{"id":"BMW_i8","name":"i8","niceName":"i8","years":[{"id":200489696,"year":2014}]}]}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:17 GMT
+recorded_with: VCR 2.9.3

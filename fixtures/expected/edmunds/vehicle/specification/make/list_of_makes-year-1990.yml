@@ -1,0 +1,1959 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+makes:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200002038
+  name: Acura
+  niceName: acura
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Acura_Integra
+    name: Integra
+    niceName: integra
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3268
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Acura_Legend
+    name: Legend
+    niceName: legend
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3275
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000001
+  name: Audi
+  niceName: audi
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_100
+    name: '100'
+    niceName: '100'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3295
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_200
+    name: '200'
+    niceName: '200'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3300
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_80
+    name: '80'
+    niceName: '80'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3303
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_90
+    name: '90'
+    niceName: '90'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3306
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_Coupe
+    name: Coupe
+    niceName: coupe
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3320
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Audi_V8
+    name: V8
+    niceName: v8
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 906
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000081
+  name: BMW
+  niceName: bmw
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3328
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_5_Series
+    name: 5 Series
+    niceName: 5-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3213
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_7_Series
+    name: 7 Series
+    niceName: 7-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3220
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_M3
+    name: M3
+    niceName: m3
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100002612
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200006659
+  name: Buick
+  niceName: buick
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Century
+    name: Century
+    niceName: century
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3236
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Electra
+    name: Electra
+    niceName: electra
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3243
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Estate_Wagon
+    name: Estate Wagon
+    niceName: estate-wagon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3244
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_LeSabre
+    name: LeSabre
+    niceName: lesabre
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3246
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Reatta
+    name: Reatta
+    niceName: reatta
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 926
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Regal
+    name: Regal
+    niceName: regal
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3026
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Riviera
+    name: Riviera
+    niceName: riviera
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 929
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Buick_Skylark
+    name: Skylark
+    niceName: skylark
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 932
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001663
+  name: Cadillac
+  niceName: cadillac
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_Allante
+    name: Allante
+    niceName: allante
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3054
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_Brougham
+    name: Brougham
+    niceName: brougham
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3058
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_DeVille
+    name: DeVille
+    niceName: deville
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3063
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_Eldorado
+    name: Eldorado
+    niceName: eldorado
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3070
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_Fleetwood
+    name: Fleetwood
+    niceName: fleetwood
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2959
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Cadillac_Seville
+    name: Seville
+    niceName: seville
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2965
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000404
+  name: Chevrolet
+  niceName: chevrolet
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Astro
+    name: Astro
+    niceName: astro
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2974
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Astro_Cargo
+    name: Astro Cargo
+    niceName: astro-cargo
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100503328
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Beretta
+    name: Beretta
+    niceName: beretta
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2981
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Blazer
+    name: Blazer
+    niceName: blazer
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2987
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_C/K_1500_Series
+    name: C/K 1500 Series
+    niceName: ck-1500-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2996
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_C/K_2500_Series
+    name: C/K 2500 Series
+    niceName: ck-2500-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3004
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_C/K_3500_Series
+    name: C/K 3500 Series
+    niceName: ck-3500-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3013
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Camaro
+    name: Camaro
+    niceName: camaro
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2892
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Caprice
+    name: Caprice
+    niceName: caprice
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2900
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Cavalier
+    name: Cavalier
+    niceName: cavalier
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 812
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Celebrity
+    name: Celebrity
+    niceName: celebrity
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 815
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Chevy_Van
+    name: Chevy Van
+    niceName: chevy-van
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2915
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Corsica
+    name: Corsica
+    niceName: corsica
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2926
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Corvette
+    name: Corvette
+    niceName: corvette
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2933
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Lumina
+    name: Lumina
+    niceName: lumina
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2946
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Lumina_Minivan
+    name: Lumina Minivan
+    niceName: lumina-minivan
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2953
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_R/V_3500_Series
+    name: R/V 3500 Series
+    niceName: rv-3500-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2716
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_S_10
+    name: S-10
+    niceName: s-10
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2689
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_S_10_Blazer
+    name: S-10 Blazer
+    niceName: s-10-blazer
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2683
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Sportvan
+    name: Sportvan
+    niceName: sportvan
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2695
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chevrolet_Suburban
+    name: Suburban
+    niceName: suburban
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2703
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200003644
+  name: Chrysler
+  niceName: chrysler
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chrysler_Imperial
+    name: Imperial
+    niceName: imperial
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2518
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chrysler_Le_Baron
+    name: Le Baron
+    niceName: le-baron
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2525
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chrysler_New_Yorker
+    name: New Yorker
+    niceName: new-yorker
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2530
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chrysler_TC
+    name: TC
+    niceName: tc
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2540
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Chrysler_Town_and_Country
+    name: Town and Country
+    niceName: town-and-country
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2541
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200009788
+  name: Dodge
+  niceName: dodge
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Caravan
+    name: Caravan
+    niceName: caravan
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2553
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Colt
+    name: Colt
+    niceName: colt
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 845
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Dakota
+    name: Dakota
+    niceName: dakota
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 847
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Daytona
+    name: Daytona
+    niceName: daytona
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2573
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Dynasty
+    name: Dynasty
+    niceName: dynasty
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2578
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Grand_Caravan
+    name: Grand Caravan
+    niceName: grand-caravan
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100503329
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Monaco
+    name: Monaco
+    niceName: monaco
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2455
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Omni
+    name: Omni
+    niceName: omni
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 856
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_RAM_150
+    name: RAM 150
+    niceName: ram-150
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2462
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_RAM_250
+    name: RAM 250
+    niceName: ram-250
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2467
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_RAM_350
+    name: RAM 350
+    niceName: ram-350
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2471
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Ram_50_Pickup
+    name: Ram 50 Pickup
+    niceName: ram-50-pickup
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2492
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Ram_Van
+    name: Ram Van
+    niceName: ram-van
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2497
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Ram_Wagon
+    name: Ram Wagon
+    niceName: ram-wagon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2506
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Ramcharger
+    name: Ramcharger
+    niceName: ramcharger
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2515
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Shadow
+    name: Shadow
+    niceName: shadow
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2383
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Dodge_Spirit
+    name: Spirit
+    niceName: spirit
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2388
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200347865
+  name: Eagle
+  niceName: eagle
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Eagle_Premier
+    name: Premier
+    niceName: premier
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2406
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Eagle_Summit
+    name: Summit
+    niceName: summit
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2409
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Eagle_Talon
+    name: Talon
+    niceName: talon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2414
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200005143
+  name: Ford
+  niceName: ford
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Aerostar
+    name: Aerostar
+    niceName: aerostar
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2425
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Bronco
+    name: Bronco
+    niceName: bronco
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2435
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Bronco_II
+    name: Bronco II
+    niceName: bronco-ii
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2442
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_E_150
+    name: E-150
+    niceName: e-150
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2317
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_E_250
+    name: E-250
+    niceName: e-250
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2327
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_E_350
+    name: E-350
+    niceName: e-350
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2335
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Escort
+    name: Escort
+    niceName: escort
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2345
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_F_150
+    name: F-150
+    niceName: f-150
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2361
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_F_250
+    name: F-250
+    niceName: f-250
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2371
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_F_350
+    name: F-350
+    niceName: f-350
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2245
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Festiva
+    name: Festiva
+    niceName: festiva
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2254
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_LTD_Crown_Victoria
+    name: LTD Crown Victoria
+    niceName: ltd-crown-victoria
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2446
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Mustang
+    name: Mustang
+    niceName: mustang
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2258
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Probe
+    name: Probe
+    niceName: probe
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2266
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Ranger
+    name: Ranger
+    niceName: ranger
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 748
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Taurus
+    name: Taurus
+    niceName: taurus
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2280
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Tempo
+    name: Tempo
+    niceName: tempo
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 753
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Ford_Thunderbird
+    name: Thunderbird
+    niceName: thunderbird
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2292
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200007302
+  name: GMC
+  niceName: gmc
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Jimmy
+    name: Jimmy
+    niceName: jimmy
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 758
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_R/V_3500_Series
+    name: R/V 3500 Series
+    niceName: rv-3500-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2309
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Rally_Wagon
+    name: Rally Wagon
+    niceName: rally-wagon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2311
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_S_15
+    name: S-15
+    niceName: s-15
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 763
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_S_15_Jimmy
+    name: S-15 Jimmy
+    niceName: s-15-jimmy
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2179
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Safari
+    name: Safari
+    niceName: safari
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2185
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Safari_Cargo
+    name: Safari Cargo
+    niceName: safari-cargo
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100503330
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Sierra_1500
+    name: Sierra 1500
+    niceName: sierra-1500
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 766
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Sierra_2500
+    name: Sierra 2500
+    niceName: sierra-2500
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2204
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Sierra_3500
+    name: Sierra 3500
+    niceName: sierra-3500
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2214
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Suburban
+    name: Suburban
+    niceName: suburban
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2231
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: GMC_Vandura
+    name: Vandura
+    niceName: vandura
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2242
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200347866
+  name: Geo
+  niceName: geo
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Geo_Metro
+    name: Metro
+    niceName: metro
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 775
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Geo_Prizm
+    name: Prizm
+    niceName: prizm
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2122
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Geo_Storm
+    name: Storm
+    niceName: storm
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2129
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Geo_Tracker
+    name: Tracker
+    niceName: tracker
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2132
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001444
+  name: Honda
+  niceName: honda
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Honda_Accord
+    name: Accord
+    niceName: accord
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2140
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Honda_Civic
+    name: Civic
+    niceName: civic
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2148
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Honda_Civic_CRX
+    name: Civic CRX
+    niceName: civic-crx
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2157
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Honda_Prelude
+    name: Prelude
+    niceName: prelude
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2169
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001398
+  name: Hyundai
+  niceName: hyundai
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Hyundai_Excel
+    name: Excel
+    niceName: excel
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 796
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Hyundai_Sonata
+    name: Sonata
+    niceName: sonata
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 798
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000089
+  name: Infiniti
+  niceName: infiniti
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Infiniti_M30
+    name: M30
+    niceName: m30
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2068
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Infiniti_Q45
+    name: Q45
+    niceName: q45
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2070
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200110731
+  name: Isuzu
+  niceName: isuzu
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Isuzu_Amigo
+    name: Amigo
+    niceName: amigo
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2080
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Isuzu_Impulse
+    name: Impulse
+    niceName: impulse
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 668
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Isuzu_Pickup
+    name: Pickup
+    niceName: pickup
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2085
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Isuzu_Trooper
+    name: Trooper
+    niceName: trooper
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1964
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200003196
+  name: Jaguar
+  niceName: jaguar
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jaguar_XJ_Series
+    name: XJ-Series
+    niceName: xj-series
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 676
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001510
+  name: Jeep
+  niceName: jeep
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jeep_Cherokee
+    name: Cherokee
+    niceName: cherokee
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1981
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jeep_Comanche
+    name: Comanche
+    niceName: comanche
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 681
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jeep_Grand_Wagoneer
+    name: Grand Wagoneer
+    niceName: grand-wagoneer
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1997
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jeep_Wagoneer
+    name: Wagoneer
+    niceName: wagoneer
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2000
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Jeep_Wrangler
+    name: Wrangler
+    niceName: wrangler
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2001
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200006582
+  name: Land Rover
+  niceName: land-rover
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Land_Rover_Range_Rover
+    name: Range Rover
+    niceName: range-rover
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 690
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001623
+  name: Lexus
+  niceName: lexus
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Lexus_ES_250
+    name: ES 250
+    niceName: es-250
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2029
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Lexus_LS_400
+    name: LS 400
+    niceName: ls-400
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1895
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001777
+  name: Lincoln
+  niceName: lincoln
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Lincoln_Continental
+    name: Continental
+    niceName: continental
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1910
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Lincoln_Mark_VII
+    name: Mark VII
+    niceName: mark-vii
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1918
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Lincoln_Town_Car
+    name: Town Car
+    niceName: town-car
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1926
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200004100
+  name: Mazda
+  niceName: mazda
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_323
+    name: '323'
+    niceName: '323'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1933
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_626
+    name: '626'
+    niceName: '626'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1938
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_929
+    name: '929'
+    niceName: '929'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1945
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_B_Series_Pickup
+    name: B-Series Pickup
+    niceName: b-series-pickup
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1950
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_MPV
+    name: MPV
+    niceName: mpv
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1958
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_MX_5_Miata
+    name: MX-5 Miata
+    niceName: mx-5-miata
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1829
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_MX_6
+    name: MX-6
+    niceName: mx-6
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1823
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_Protege
+    name: Protege
+    niceName: protege
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1842
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mazda_RX_7
+    name: RX-7
+    niceName: rx-7
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1849
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000130
+  name: Mercedes-Benz
+  niceName: mercedes-benz
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_190_Class
+    name: 190-Class
+    niceName: 190-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1853
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_300_Class
+    name: 300-Class
+    niceName: 300-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 726
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_350_Class
+    name: 350-Class
+    niceName: 350-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 727
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_420_Class
+    name: 420-Class
+    niceName: 420-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1868
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_500_Class
+    name: 500-Class
+    niceName: 500-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1870
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercedes_Benz_560_Class
+    name: 560-Class
+    niceName: 560-class
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1876
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200007711
+  name: Mercury
+  niceName: mercury
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercury_Cougar
+    name: Cougar
+    niceName: cougar
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1764
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercury_Grand_Marquis
+    name: Grand Marquis
+    niceName: grand-marquis
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1771
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercury_Sable
+    name: Sable
+    niceName: sable
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1783
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mercury_Topaz
+    name: Topaz
+    niceName: topaz
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1790
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200002915
+  name: Mitsubishi
+  niceName: mitsubishi
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Eclipse
+    name: Eclipse
+    niceName: eclipse
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1678
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Galant
+    name: Galant
+    niceName: galant
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1689
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Mighty_Max_Pickup
+    name: Mighty Max Pickup
+    niceName: mighty-max-pickup
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 619
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Mirage
+    name: Mirage
+    niceName: mirage
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1702
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Montero
+    name: Montero
+    niceName: montero
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1710
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Precis
+    name: Precis
+    niceName: precis
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 626
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Sigma
+    name: Sigma
+    niceName: sigma
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1727
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Mitsubishi_Vanwagon
+    name: Vanwagon
+    niceName: vanwagon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1729
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000201
+  name: Nissan
+  niceName: nissan
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_240SX
+    name: 240SX
+    niceName: 240sx
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1734
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_300ZX
+    name: 300ZX
+    niceName: 300zx
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 632
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Axxess
+    name: Axxess
+    niceName: axxess
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1612
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Maxima
+    name: Maxima
+    niceName: maxima
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1630
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Pathfinder
+    name: Pathfinder
+    niceName: pathfinder
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1640
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Pulsar
+    name: Pulsar
+    niceName: pulsar
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 642
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Sentra
+    name: Sentra
+    niceName: sentra
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1654
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Stanza
+    name: Stanza
+    niceName: stanza
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1662
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Truck
+    name: Truck
+    niceName: truck
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 3256
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Nissan_Van
+    name: Van
+    niceName: van
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1666
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200249342
+  name: Oldsmobile
+  niceName: oldsmobile
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Custom_Cruiser
+    name: Custom Cruiser
+    niceName: custom-cruiser
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1544
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Cutlass_Calais
+    name: Cutlass Calais
+    niceName: cutlass-calais
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1548
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Cutlass_Ciera
+    name: Cutlass Ciera
+    niceName: cutlass-ciera
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1550
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Cutlass_Supreme
+    name: Cutlass Supreme
+    niceName: cutlass-supreme
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1555
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Eighty_Eight_Royale
+    name: Eighty-Eight Royale
+    niceName: eighty-eight-royale
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1565
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Ninety_Eight
+    name: Ninety-Eight
+    niceName: ninety-eight
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 660
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Silhouette
+    name: Silhouette
+    niceName: silhouette
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1580
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Oldsmobile_Toronado
+    name: Toronado
+    niceName: toronado
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1589
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200339126
+  name: Plymouth
+  niceName: plymouth
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Acclaim
+    name: Acclaim
+    niceName: acclaim
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 523
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Colt
+    name: Colt
+    niceName: colt
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 526
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Grand_Voyager
+    name: Grand Voyager
+    niceName: grand-voyager
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100503331
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Horizon
+    name: Horizon
+    niceName: horizon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1467
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Laser
+    name: Laser
+    niceName: laser
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 527
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Sundance
+    name: Sundance
+    niceName: sundance
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1476
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Plymouth_Voyager
+    name: Voyager
+    niceName: voyager
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1481
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200002634
+  name: Pontiac
+  niceName: pontiac
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_6000
+    name: '6000'
+    niceName: '6000'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1488
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Bonneville
+    name: Bonneville
+    niceName: bonneville
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 535
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Firebird
+    name: Firebird
+    niceName: firebird
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 537
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Grand_Am
+    name: Grand Am
+    niceName: grand-am
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1506
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Grand_Prix
+    name: Grand Prix
+    niceName: grand-prix
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1514
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Le_Mans
+    name: Le Mans
+    niceName: le-mans
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1521
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Sunbird
+    name: Sunbird
+    niceName: sunbird
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 546
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Pontiac_Trans_Sport
+    name: Trans Sport
+    niceName: trans-sport
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1533
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000886
+  name: Porsche
+  niceName: porsche
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Porsche_911
+    name: '911'
+    niceName: '911'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 551
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Porsche_928
+    name: '928'
+    niceName: '928'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1400
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Porsche_944
+    name: '944'
+    niceName: '944'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1405
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200074504
+  name: Saab
+  niceName: saab
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Saab_900
+    name: '900'
+    niceName: '900'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1411
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Saab_9000
+    name: '9000'
+    niceName: '9000'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1418
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200004491
+  name: Subaru
+  niceName: subaru
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Subaru_Justy
+    name: Justy
+    niceName: justy
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1448
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Subaru_Legacy
+    name: Legacy
+    niceName: legacy
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1452
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Subaru_Loyale
+    name: Loyale
+    niceName: loyale
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1458
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001853
+  name: Suzuki
+  niceName: suzuki
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Suzuki_Samurai
+    name: Samurai
+    niceName: samurai
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1324
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Suzuki_Sidekick
+    name: Sidekick
+    niceName: sidekick
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1329
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Suzuki_Swift
+    name: Swift
+    niceName: swift
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1338
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200003381
+  name: Toyota
+  niceName: toyota
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_4Runner
+    name: 4Runner
+    niceName: 4runner
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 591
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Camry
+    name: Camry
+    niceName: camry
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1357
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Celica
+    name: Celica
+    niceName: celica
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1365
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Corolla
+    name: Corolla
+    niceName: corolla
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1373
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Cressida
+    name: Cressida
+    niceName: cressida
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1380
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Land_Cruiser
+    name: Land Cruiser
+    niceName: land-cruiser
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1246
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Pickup
+    name: Pickup
+    niceName: pickup
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1384
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Supra
+    name: Supra
+    niceName: supra
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 463
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Toyota_Tercel
+    name: Tercel
+    niceName: tercel
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1291
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200000238
+  name: Volkswagen
+  niceName: volkswagen
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Cabriolet
+    name: Cabriolet
+    niceName: cabriolet
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1302
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Corrado
+    name: Corrado
+    niceName: corrado
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1305
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Fox
+    name: Fox
+    niceName: fox
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 473
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_GTI
+    name: GTI
+    niceName: gti
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100503332
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Golf
+    name: Golf
+    niceName: golf
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1172
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Jetta
+    name: Jetta
+    niceName: jetta
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1180
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Passat
+    name: Passat
+    niceName: passat
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1187
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volkswagen_Vanagon
+    name: Vanagon
+    niceName: vanagon
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1195
+      year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200010382
+  name: Volvo
+  niceName: volvo
+  models:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volvo_240
+    name: '240'
+    niceName: '240'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1197
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volvo_740
+    name: '740'
+    niceName: '740'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1201
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volvo_760
+    name: '760'
+    niceName: '760'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 485
+      year: 1990
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: Volvo_780
+    name: '780'
+    niceName: '780'
+    years:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 1205
+      year: 1990
+makesCount: 36

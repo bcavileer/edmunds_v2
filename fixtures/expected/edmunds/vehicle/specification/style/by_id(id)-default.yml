@@ -1,0 +1,19 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 200001623
+  name: Lexus
+  niceName: lexus
+model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: Lexus_RX_350
+  name: RX 350
+  niceName: rx-350
+id: 101353967
+name: 4dr SUV (3.5L 6cyl 6A)
+year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: 100533091
+  year: 2011
+submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  body: SUV
+  modelName: RX 350 SUV
+  niceName: suv
+trim: Base

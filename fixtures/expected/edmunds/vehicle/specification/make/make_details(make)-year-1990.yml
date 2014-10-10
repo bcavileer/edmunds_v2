@@ -1,0 +1,37 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+id: 200000081
+name: BMW
+niceName: bmw
+models:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_3_Series
+  name: 3 Series
+  niceName: 3-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_5_Series
+  name: 5 Series
+  niceName: 5-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3213
+    year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_7_Series
+  name: 7 Series
+  niceName: 7-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3220
+    year: 1990
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_M3
+  name: M3
+  niceName: m3
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100002612
+    year: 1990

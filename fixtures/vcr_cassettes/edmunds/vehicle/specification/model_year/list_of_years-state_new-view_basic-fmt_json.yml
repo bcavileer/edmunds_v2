@@ -1,0 +1,122 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw/3-series/years?api_key=EDMUNDS_API_KEY&fmt=json&state=new&view=basic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 15:36:46 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1d-41.mashery.com
+      Content-Length:
+      - '7144'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"years":[{"id":100535269,"year":2013,"styles":[{"id":200423471,"name":"328i
+        xDrive 2dr Coupe AWD (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"328i xDrive"},{"id":200423469,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200423467,"name":"328i
+        2dr Convertible (3.0L 6cyl 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"328i"},{"id":200423468,"name":"328i
+        2dr Coupe (3.0L 6cyl 6M)","submodel":{"body":"Coupe","modelName":"3 Series
+        Coupe","niceName":"coupe"},"trim":"328i"},{"id":101414454,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200423804,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200423805,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200459518,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200423478,"name":"335is
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335is"},{"id":200460586,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200423477,"name":"335is
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335is"},{"id":200423476,"name":"335i
+        xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i xDrive"},{"id":200423475,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200423474,"name":"335i
+        2dr Coupe (3.0L 6cyl Turbo 6M)","submodel":{"body":"Coupe","modelName":"3
+        Series Coupe","niceName":"coupe"},"trim":"335i"},{"id":200423473,"name":"335i
+        2dr Convertible (3.0L 6cyl Turbo 6M)","submodel":{"body":"Convertible","modelName":"3
+        Series Convertible","niceName":"convertible"},"trim":"335i"}]},{"id":200468552,"year":2014,"styles":[{"id":200489829,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200489830,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200489817,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200489831,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200489818,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200489823,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200489825,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200489821,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200489827,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200468555,"name":"328i
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":200489833,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200489782,"name":"328d
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Wagon","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200489835,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"}]},{"id":200704009,"year":2015,"styles":[{"id":200704023,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200704024,"name":"328i
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Wagon","modelName":"3
+        Series Wagon","niceName":"wagon"},"trim":"328i xDrive"},{"id":200704021,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200704022,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200704019,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200704020,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200704017,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200704018,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200704016,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200704015,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200704014,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200704013,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200704025,"name":"328d
+        xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Wagon","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"}]}],"yearsCount":3}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:54 GMT
+recorded_with: VCR 2.9.3

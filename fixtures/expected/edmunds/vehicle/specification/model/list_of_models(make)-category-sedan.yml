@@ -1,0 +1,3607 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+models:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_3_Series
+  name: 3 Series
+  niceName: 3-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 222
+      name: 325iX 4dr Sedan AWD
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325iX
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 216
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3329
+    year: 1991
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 186
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 196
+      name: 325iX 4dr Sedan AWD
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325iX
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 14186
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3330
+    year: 1992
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 160
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 163
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 909
+    year: 1993
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 135
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 133
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3331
+    year: 1994
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 102
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3209
+    year: 1995
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 69
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 63
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 910
+    year: 1996
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 34
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 42
+      name: 328i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3210
+    year: 1997
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2969
+      name: 328i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17778
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3211
+    year: 1998
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17326
+      name: 328i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17321
+      name: 318i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 318i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 963
+    year: 1999
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 11498
+      name: 323i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 323i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 11500
+      name: 328i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 1118
+    year: 2000
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 10588
+      name: 328i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 10587
+      name: 323i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 323i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000021
+    year: 2001
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000469
+      name: 325i Rwd 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000471
+      name: 325xi AWD 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000476
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000475
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000457
+    year: 2002
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003671
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003670
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003666
+      name: 325xi AWD 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003664
+      name: 325i Rwd 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100502723
+    year: 2003
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100180617
+      name: 325xi AWD 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100261369
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100274636
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100180659
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100180658
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100180616
+      name: 325i Rwd 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503217
+    year: 2004
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100351179
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100351178
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100351175
+      name: 325xi AWD 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100351174
+      name: 325i Rwd 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503250
+    year: 2005
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100469134
+      name: 330i Rwd 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100467103
+      name: 325i Rwd 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100469135
+      name: 330xi AWD 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100467104
+      name: 325xi AWD 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100504903
+    year: 2006
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100652314
+      name: 330xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100530523
+      name: 325i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100652311
+      name: 325xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100530524
+      name: 330i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 330i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100507019
+    year: 2007
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100864160
+      name: 335xi 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100814245
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100814244
+      name: 328xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100814243
+      name: 328i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100524310
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100946472
+      name: 328xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100946471
+      name: 328i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100946474
+      name: 335xi 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100946473
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100524793
+    year: 2009
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101082770
+      name: 328i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101082771
+      name: 328i xDrive 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101082772
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101082773
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101125747
+      name: 335d 4dr Sedan (3.0L 6cyl Turbodiesel 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 335d
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100529029
+    year: 2010
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101200939
+      name: 328i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101200940
+      name: 328i xDrive 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101200941
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101200942
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101200943
+      name: 335d 4dr Sedan (3.0L 6cyl Turbodiesel 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 335d
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100531052
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288741
+      name: 335d 4dr Sedan (3.0L 6cyl Turbodiesel 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 335d
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288737
+      name: 328i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288738
+      name: 328i xDrive 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288739
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288740
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100538029
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101386360
+      name: 328i 4dr Sedan (2.0L 4cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101420164
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100535269
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200423469
+      name: 328i 4dr Sedan (2.0L 4cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200459518
+      name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101414454
+      name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Hybrid
+        modelName: 3 Series Hybrid
+        niceName: hybrid
+      trim: ActiveHybrid 3
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200460586
+      name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200423804
+      name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200423805
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200423475
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200468552
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489829
+      name: 328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 328d xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489830
+      name: 328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 328d
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489817
+      name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489831
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489818
+      name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489823
+      name: 328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489825
+      name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489827
+      name: 328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489821
+      name: 328i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489833
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200489835
+      name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Hybrid
+        modelName: 3 Series Hybrid
+        niceName: hybrid
+      trim: ActiveHybrid 3
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200704009
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704023
+      name: ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Hybrid
+        modelName: 3 Series Hybrid
+        niceName: hybrid
+      trim: ActiveHybrid 3
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704021
+      name: 335i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704022
+      name: 335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 335i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704019
+      name: 328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 328d
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704020
+      name: 328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 3 Series Diesel
+        niceName: diesel
+      trim: 328d xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704017
+      name: 328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704018
+      name: 328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i xDrive SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704016
+      name: 328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704015
+      name: 328i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 328i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704014
+      name: 320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200704013
+      name: 320i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 320i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_4_Series_Gran_Coupe
+  name: 4 Series Gran Coupe
+  niceName: 4-series-gran-coupe
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200676095
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200700853
+      name: 435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 435i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200676096
+      name: 428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 428i SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200698044
+      name: 428i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 428i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200698043
+      name: 428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 428i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200698042
+      name: 428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 428i xDrive SULEV
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200698041
+      name: 435i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 4 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 435i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_5_Series
+  name: 5 Series
+  niceName: 5-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3213
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 224
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 226
+      name: 535i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3214
+    year: 1991
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 199
+      name: 535i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 197
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 911
+    year: 1992
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 172
+      name: 535i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 9386
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3215
+    year: 1993
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 143
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 147
+      name: 535i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3216
+    year: 1994
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 111
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 115
+      name: 530i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 119
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 912
+    year: 1995
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 82
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 79
+      name: 530i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 75
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3217
+    year: 1997
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17784
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17782
+      name: 528i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3218
+    year: 1998
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17336
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17334
+      name: 528i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3417
+    year: 1999
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 13595
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 11363
+      name: 528i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 1124
+    year: 2000
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 10537
+      name: 528i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 9969
+      name: 540i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000022
+    year: 2001
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000543
+      name: 530i 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000544
+      name: 540i 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000477
+      name: 525i 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000546
+      name: 540i 4dr Sedan (4.4L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000458
+    year: 2002
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003672
+      name: 525i 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003675
+      name: 540i 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003676
+      name: 540i 4dr Sedan (4.4L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003674
+      name: 530i 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100502694
+    year: 2003
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100183651
+      name: 525i 4dr Sedan (2.5L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100183655
+      name: 540i 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100183656
+      name: 540i 4dr Sedan (4.4L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 540i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100183654
+      name: 530i 4dr Sedan (3.0L 6cyl 5M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100502695
+    year: 2004
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100344933
+      name: 545i 4dr Sedan (4.4L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 545i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100344930
+      name: 525i 4dr Sedan (2.5L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100344932
+      name: 545i 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 545i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100344931
+      name: 530i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100505111
+    year: 2005
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100477655
+      name: 525i 4dr Sedan (2.5L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100477656
+      name: 530i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100477657
+      name: 545i 4dr Sedan (4.4L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 545i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100505142
+    year: 2006
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528417
+      name: 530xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100645497
+      name: 550i 4dr Sedan (4.8L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528416
+      name: 530i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528413
+      name: 525i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528414
+      name: 525xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525xi
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100507623
+    year: 2007
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100703680
+      name: 525i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100703683
+      name: 530xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100703681
+      name: 525xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100703682
+      name: 530i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 530i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100703685
+      name: 550i 4dr Sedan (4.8L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100522929
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100870604
+      name: 550i 4dr Sedan (4.8L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100870601
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100870602
+      name: 535xi 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535xi
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100870599
+      name: 528i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100870600
+      name: 528xi 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528xi
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100526330
+    year: 2009
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101085265
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101085266
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101085273
+      name: 550i 4dr Sedan (4.8L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101085264
+      name: 528i xDrive 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101085263
+      name: 528i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100528109
+    year: 2010
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166701
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166702
+      name: 550i 4dr Sedan (4.8L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166699
+      name: 528i xDrive 4dr Sedan AWD (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166700
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166698
+      name: 528i 4dr Sedan (3.0L 6cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100520104
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101302342
+      name: 550i 4dr Sedan (4.4L 8cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101354262
+      name: 550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101311198
+      name: 528i 4dr Sedan (3.0L 6cyl 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101354009
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101212618
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100537809
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407925
+      name: 550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407922
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407921
+      name: 528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407924
+      name: 550i 4dr Sedan (4.4L 8cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407834
+      name: 528i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101407923
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200429164
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429165
+      name: 528i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429166
+      name: 528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429167
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429168
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429170
+      name: 550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429169
+      name: 550i 4dr Sedan (4.4L 8cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429171
+      name: ActiveHybrid 5 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Hybrid
+        modelName: 5 Series Hybrid
+        niceName: hybrid
+      trim: ActiveHybrid 5
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200474272
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493207
+      name: 535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 5 Series Diesel
+        niceName: diesel
+      trim: 535d xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493208
+      name: 535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 5 Series Diesel
+        niceName: diesel
+      trim: 535d
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493205
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200474278
+      name: 528i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493206
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493204
+      name: 528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493209
+      name: 550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200493210
+      name: 550i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200705185
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705202
+      name: 550i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705201
+      name: 535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 5 Series Diesel
+        niceName: diesel
+      trim: 535d xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705204
+      name: 550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 550i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705192
+      name: 528i 4dr Sedan (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705193
+      name: 528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 528i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705194
+      name: 535i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705196
+      name: 535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705200
+      name: 535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 5 Series Diesel
+        niceName: diesel
+      trim: 535d
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_6_Series_Gran_Coupe
+  name: 6 Series Gran Coupe
+  niceName: 6-series-gran-coupe
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100539109
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200441996
+      name: 650i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200441997
+      name: 650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101418788
+      name: 640i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 640i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200471738
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200471739
+      name: 640i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 640i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200471740
+      name: 640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 640i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200471741
+      name: 650i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200471742
+      name: 650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200692802
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200692805
+      name: 650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200692806
+      name: 640i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 640i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200692803
+      name: 640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 640i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200692804
+      name: 650i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 6 Series Gran Coupe Sedan
+        niceName: sedan
+      trim: 650i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_7_Series
+  name: 7 Series
+  niceName: 7-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3220
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 232
+      name: 735i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 235
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 233
+      name: 735iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 914
+    year: 1991
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 208
+      name: 735iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 206
+      name: 735i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 210
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3221
+    year: 1992
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 181
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 9388
+      name: 735i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 179
+      name: 735iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3222
+    year: 1993
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 156
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 154
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 152
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 915
+    year: 1994
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 125
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 127
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 129
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3223
+    year: 1995
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 96
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 94
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 92
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3224
+    year: 1996
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 55
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 57
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3225
+    year: 1997
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 583
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 581
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 10557
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 916
+    year: 1998
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17118
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17174
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17175
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3418
+    year: 1999
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 13584
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 11350
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 11352
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 1241
+    year: 2000
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 8277
+      name: 750iL Protection 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL Protection
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 8274
+      name: 740iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 8273
+      name: 740i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 8276
+      name: 740iL Protection 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL Protection
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 8275
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000023
+    year: 2001
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000550
+      name: 750iL 4dr Sedan (5.4L 12cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000549
+      name: 740iL Protection 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL Protection
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000551
+      name: 750iL Protection 4dr Sedan (5.4L 12cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL Protection
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000548
+      name: 740iL 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100000547
+      name: 740i 4dr Sedan (4.4L 8cyl 5A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000459
+    year: 2002
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100070588
+      name: 745Li 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100070589
+      name: 745i 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100502724
+    year: 2003
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100192656
+      name: 745Li 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100192657
+      name: 745i 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100205564
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503649
+    year: 2004
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100347927
+      name: 745Li 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100347928
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100347926
+      name: 745i 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100400391
+      name: 760i 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100504124
+    year: 2005
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100474765
+      name: 760i 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100474766
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100474763
+      name: 745i 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100474764
+      name: 745Li 4dr Sedan (4.4L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 745Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100505546
+    year: 2006
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528419
+      name: 750i 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528422
+      name: 760i 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528421
+      name: 750Li 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100528423
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100507499
+    year: 2007
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100826295
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100826294
+      name: 750Li 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100826293
+      name: 750i 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100519521
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100951362
+      name: 750i 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100951363
+      name: 750Li 4dr Sedan (4.8L 8cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100951364
+      name: 760Li 4dr Sedan (6.0L 12cyl 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100525990
+    year: 2009
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101136367
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101136368
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100522593
+    year: 2010
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101225980
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101225983
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101225982
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101225981
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101225917
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100531089
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101289292
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101289295
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101289296
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101354935
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101289293
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101289294
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101277424
+      name: 740i 4dr Sedan (3.0L 6cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100534810
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382183
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382184
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382181
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382182
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382179
+      name: 740i 4dr Sedan (3.0L 6cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101382180
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101417974
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200429759
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429764
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429884
+      name: 740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429763
+      name: 740i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429762
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429768
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429767
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429766
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429765
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200495598
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495609
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495610
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495611
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495599
+      name: 740i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495605
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495606
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495607
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200495608
+      name: 740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li xDrive
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200692022
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705597
+      name: 750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705598
+      name: 750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705600
+      name: 760Li 4dr Sedan (6.0L 12cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 760Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705593
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705595
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705596
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750Li
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200692023
+      name: 740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        fuel: Diesel
+        modelName: 7 Series Diesel
+        niceName: diesel
+      trim: 740Ld xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705591
+      name: 740i 4dr Sedan (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200705592
+      name: 740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 740Li xDrive
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_ALPINA_B6_Gran_Coupe
+  name: ALPINA B6 Gran Coupe
+  niceName: alpina-b6-gran-coupe
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200710296
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200710297
+      name: xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B6 Gran Coupe Sedan
+        niceName: sedan
+      trim: xDrive
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_ALPINA_B7
+  name: ALPINA B7
+  niceName: alpina-b7
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100522567
+    year: 2007
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100857389
+      name: 4dr Sedan (4.4L 8cyl S/C 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100524449
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100953939
+      name: 4dr Sedan (4.4L 8cyl S/C 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100531129
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101281932
+      name: SWB 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101355889
+      name: SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101355890
+      name: LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101288217
+      name: LWB 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100534749
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101381632
+      name: LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101381631
+      name: SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101381630
+      name: LWB 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101381629
+      name: SWB 4dr Sedan (4.4L 8cyl Turbo 6A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200491671
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200491672
+      name: LWB 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200491675
+      name: LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200491673
+      name: SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200491674
+      name: SWB 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200710062
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200710071
+      name: LWB 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200710067
+      name: SWB 4dr Sedan (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200710078
+      name: LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: LWB xDrive
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200710073
+      name: SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ALPINA B7 Sedan
+        niceName: sedan
+      trim: SWB xDrive
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_ActiveHybrid_5
+  name: ActiveHybrid 5
+  niceName: activehybrid-5
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100531252
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101287559
+      name: 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200492996
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200492997
+      name: 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200708037
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200708042
+      name: 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 5 Sedan
+        niceName: sedan
+      trim: Base
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_ActiveHybrid_7
+  name: ActiveHybrid 7
+  niceName: activehybrid-7
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100530789
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101266492
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101266493
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 750Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100538889
+    year: 2012
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101417984
+      name: 750i 4dr Sedan (4.4L 8cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 750i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101417985
+      name: 750Li 4dr Sedan (4.4L 8cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 750Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200429760
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200429769
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 740Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200494174
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200494175
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 740Li
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200708685
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200708686
+      name: 740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: ActiveHybrid 7 Sedan
+        niceName: sedan
+      trim: 740Li
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_M3
+  name: M3
+  niceName: m3
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503378
+    year: 1997
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17463
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503388
+    year: 1998
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 17341
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100504625
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100991471
+      name: 4dr Sedan (4.0L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100522874
+    year: 2009
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101092791
+      name: 4dr Sedan (4.0L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100529689
+    year: 2010
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101216057
+      name: 4dr Sedan (4.0L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100531349
+    year: 2011
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101287988
+      name: 4dr Sedan (4.0L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200498619
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101426487
+      name: 4dr Sedan (3.0L 6cyl Turbo 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M3 Sedan
+        niceName: sedan
+      trim: Base
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_M5
+  name: M5
+  niceName: m5
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503334
+    year: 1991
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 205
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 917
+    year: 1992
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 176
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503348
+    year: 1993
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 150
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 952
+    year: 2000
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 2922
+      name: 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000474
+    year: 2001
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100003722
+      name: 4dr Sedan (4.9L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100000465
+    year: 2002
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100070783
+      name: 4dr Sedan (4.9L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100502727
+    year: 2003
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100194208
+      name: 4dr Sedan (4.9L 8cyl 6M)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100503284
+    year: 2006
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100650117
+      name: 4dr Sedan (5.0L 10cyl 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100520310
+    year: 2007
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100830998
+      name: 4dr Sedan (5.0L 10cyl 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100522949
+    year: 2008
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 100874882
+      name: 4dr Sedan (5.0L 10cyl 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100526389
+    year: 2009
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101109584
+      name: 4dr Sedan (5.0L 10cyl 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100520105
+    year: 2010
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101166503
+      name: 4dr Sedan (5.0L 10cyl 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100539329
+    year: 2013
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 101212619
+      name: 4dr Sedan (4.4L 8cyl Turbo 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200474287
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200474288
+      name: 4dr Sedan (4.4L 8cyl Turbo 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200708834
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200708835
+      name: 4dr Sedan (4.4L 8cyl Turbo 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M5 Sedan
+        niceName: sedan
+      trim: Base
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_M6_Gran_Coupe
+  name: M6 Gran Coupe
+  niceName: m6-gran-coupe
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200459377
+    year: 2014
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200459378
+      name: 4dr Sedan (4.4L 8cyl Turbo 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M6 Gran Coupe Sedan
+        niceName: sedan
+      trim: Base
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200695679
+    year: 2015
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 200695680
+      name: 4dr Sedan (4.4L 8cyl Turbo 7AM)
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: M6 Gran Coupe Sedan
+        niceName: sedan
+      trim: Base
+modelsCount: 12

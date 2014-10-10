@@ -1,0 +1,117 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+styles:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 215
+  name: 325i 2dr Coupe
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Coupe
+    modelName: 3 Series Coupe
+    niceName: coupe
+  trim: 325i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 213
+  name: 325i 2dr Convertible
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Convertible
+    modelName: 3 Series Convertible
+    niceName: convertible
+  trim: 325i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 222
+  name: 325iX 4dr Sedan AWD
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Sedan
+    modelName: 3 Series Sedan
+    niceName: sedan
+  trim: 325iX
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 218
+  name: 325is 2dr Coupe
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Coupe
+    modelName: 3 Series Coupe
+    niceName: coupe
+  trim: 325is
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 220
+  name: 325iX 2dr Coupe AWD
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Coupe
+    modelName: 3 Series Coupe
+    niceName: coupe
+  trim: 325iX
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  make: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 200000081
+    name: BMW
+    niceName: bmw
+  model: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: BMW_3_Series
+    name: 3 Series
+    niceName: 3-series
+  id: 216
+  name: 325i 4dr Sedan
+  year: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+  submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    body: Sedan
+    modelName: 3 Series Sedan
+    niceName: sedan
+  trim: 325i
+stylesCount: 6

@@ -1,0 +1,54 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw/models?api_key=EDMUNDS_API_KEY&fmt=json&view=basic&year=1990
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 18:23:28 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1e-46.mashery.com
+      Content-Length:
+      - '1974'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"models":[{"id":"BMW_3_Series","name":"3 Series","niceName":"3-series","years":[{"id":3328,"year":1990,"styles":[{"id":222,"name":"325iX
+        4dr Sedan AWD","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325iX"},{"id":220,"name":"325iX
+        2dr Coupe AWD","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325iX"},{"id":218,"name":"325is
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325is"},{"id":215,"name":"325i
+        2dr Coupe","submodel":{"body":"Coupe","modelName":"3 Series Coupe","niceName":"coupe"},"trim":"325i"},{"id":216,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":213,"name":"325i
+        2dr Convertible","submodel":{"body":"Convertible","modelName":"3 Series Convertible","niceName":"convertible"},"trim":"325i"}]}]},{"id":"BMW_5_Series","name":"5
+        Series","niceName":"5-series","years":[{"id":3213,"year":1990,"styles":[{"id":224,"name":"525i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"5 Series Sedan","niceName":"sedan"},"trim":"525i"},{"id":226,"name":"535i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"5 Series Sedan","niceName":"sedan"},"trim":"535i"}]}]},{"id":"BMW_7_Series","name":"7
+        Series","niceName":"7-series","years":[{"id":3220,"year":1990,"styles":[{"id":232,"name":"735i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"7 Series Sedan","niceName":"sedan"},"trim":"735i"},{"id":235,"name":"750iL
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"7 Series Sedan","niceName":"sedan"},"trim":"750iL"},{"id":233,"name":"735iL
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"7 Series Sedan","niceName":"sedan"},"trim":"735iL"}]}]},{"id":"BMW_M3","name":"M3","niceName":"m3","years":[{"id":100002612,"year":1990,"styles":[{"id":231,"name":"2dr
+        Coupe","submodel":{"body":"Coupe","modelName":"M3 Coupe","niceName":"coupe"},"trim":"Base"}]}]}],"modelsCount":4}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:34 GMT
+recorded_with: VCR 2.9.3

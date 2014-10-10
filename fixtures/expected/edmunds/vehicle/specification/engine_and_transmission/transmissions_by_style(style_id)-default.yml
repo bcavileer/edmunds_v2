@@ -1,0 +1,52 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+transmissions:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: '200478100'
+  name: 5A
+  equipmentType: TRANSMISSION
+  availability: OPTIONAL
+  options:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: '200478145'
+    name: 5.7L V8 HEMI MDS VVT Engine (S Rwd)
+    description: 5.7L V8 16V VVT engine rated at 363 hp @ 5200 rpm and 394 lb.-ft.
+      of torque @ 4200 rpm; 5-speed automatic transmission; 160 mph primary speedometer;
+      215mm rear axle; 4 wheel independent performance suspension; Anti-lock 4-wheel
+      performance disc brakes; Gross vehicle weight of 5350 lbs.
+    equipmentType: OPTION
+    availability: S Rwd
+    manufactureOptionName: 5.7L V8 HEMI MDS VVT Engine
+    manufactureOptionCode: EZH
+    category: Package
+    price: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      baseMSRP: 3000.0
+      baseInvoice: 2670.0
+      estimateTmv: false
+    attributes:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Front Suspension Classification
+      value: independent
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Independent Suspension
+      value: four-wheel
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Rear Suspension Classification
+      value: independent
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Antilock Braking System
+      value: 4-wheel ABS
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      name: Gross Vehicle Weight
+      value: '5350'
+  automaticType: Shiftable automatic
+  transmissionType: AUTOMATIC
+  numberOfSpeeds: '5'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: '200478101'
+  name: 8A
+  equipmentType: TRANSMISSION
+  availability: STANDARD
+  automaticType: Shiftable automatic
+  transmissionType: AUTOMATIC
+  numberOfSpeeds: '8'
+transmissionsCount: 2

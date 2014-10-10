@@ -1,0 +1,21 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+engines:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: '200478096'
+  name: 3.6L V6 Engine (300S Only)
+  equipmentType: ENGINE
+  availability: STANDARD
+  compressionRatio: 10.2
+  cylinder: 6
+  size: 3.6
+  displacement: 3604.0
+  configuration: V
+  fuelType: flex-fuel (unleaded/E85)
+  horsepower: 300
+  torque: 264
+  totalValves: 24
+  manufacturerEngineCode: ERB
+  type: flex-fuel (FFV)
+  code: 6VNAF3.6
+  compressorType: NA
+enginesCount: 1

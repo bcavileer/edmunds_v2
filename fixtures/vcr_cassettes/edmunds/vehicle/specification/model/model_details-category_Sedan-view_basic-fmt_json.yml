@@ -1,0 +1,219 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.edmunds.com/api/vehicle/v2/bmw/3-series?api_key=EDMUNDS_API_KEY&category=Sedan&fmt=json&view=basic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json
+      Date:
+      - Fri, 10 Oct 2014 18:23:32 GMT
+      Server:
+      - Apache-Coyote/1.1
+      X-Environment:
+      - Prod-2
+      X-Mashery-Responder:
+      - prod-j-worker-us-east-1e-46.mashery.com
+      Content-Length:
+      - '16775'
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"id":"BMW_3_Series","name":"3 Series","niceName":"3-series","years":[{"id":3328,"year":1990,"styles":[{"id":222,"name":"325iX
+        4dr Sedan AWD","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325iX"},{"id":216,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":3329,"year":1991,"styles":[{"id":186,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":196,"name":"325iX
+        4dr Sedan AWD","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325iX"},{"id":14186,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":3330,"year":1992,"styles":[{"id":160,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":163,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":909,"year":1993,"styles":[{"id":135,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":133,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"}]},{"id":3331,"year":1994,"styles":[{"id":100,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":102,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":3209,"year":1995,"styles":[{"id":69,"name":"325i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":63,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"}]},{"id":910,"year":1996,"styles":[{"id":34,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"},{"id":42,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"}]},{"id":3210,"year":1997,"styles":[{"id":2969,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":17778,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"}]},{"id":3211,"year":1998,"styles":[{"id":17326,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":17321,"name":"318i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"318i"}]},{"id":963,"year":1999,"styles":[{"id":11498,"name":"323i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"323i"},{"id":11500,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"}]},{"id":1118,"year":2000,"styles":[{"id":10588,"name":"328i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":10587,"name":"323i
+        4dr Sedan","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"323i"}]},{"id":100000021,"year":2001,"styles":[{"id":100000469,"name":"325i
+        Rwd 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100000471,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100000476,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100000475,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"}]},{"id":100000457,"year":2002,"styles":[{"id":100003671,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100003670,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100003666,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100003664,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":100502723,"year":2003,"styles":[{"id":100180617,"name":"325xi
+        AWD 4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100261369,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100274636,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100180659,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100180658,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100180616,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":100503217,"year":2004,"styles":[{"id":100351179,"name":"330xi
+        AWD 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100351178,"name":"330i Rwd
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100351175,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100351174,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"}]},{"id":100503250,"year":2005,"styles":[{"id":100469134,"name":"330i
+        Rwd 4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330i"},{"id":100467103,"name":"325i Rwd
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325i"},{"id":100469135,"name":"330xi AWD
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100467104,"name":"325xi AWD
+        4dr Sedan (2.5L 6cyl 5M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"}]},{"id":100504903,"year":2006,"styles":[{"id":100652314,"name":"330xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"330xi"},{"id":100530523,"name":"325i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"325i"},{"id":100652311,"name":"325xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"325xi"},{"id":100530524,"name":"330i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"330i"}]},{"id":100507019,"year":2007,"styles":[{"id":100864160,"name":"335xi
+        4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335xi"},{"id":100814245,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":100814244,"name":"328xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328xi"},{"id":100814243,"name":"328i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"}]},{"id":100524310,"year":2008,"styles":[{"id":100946472,"name":"328xi
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328xi"},{"id":100946471,"name":"328i 4dr
+        Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":100946474,"name":"335xi
+        4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335xi"},{"id":100946473,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"}]},{"id":100524793,"year":2009,"styles":[{"id":101082770,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101082771,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101082772,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101082773,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":101125747,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"}]},{"id":100529029,"year":2010,"styles":[{"id":101200939,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101200940,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101200941,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101200942,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":101200943,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"}]},{"id":100531052,"year":2011,"styles":[{"id":101288741,"name":"335d
+        4dr Sedan (3.0L 6cyl Turbodiesel 6A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"335d"},{"id":101288737,"name":"328i
+        4dr Sedan (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i"},{"id":101288738,"name":"328i xDrive
+        4dr Sedan AWD (3.0L 6cyl 6M)","submodel":{"body":"Sedan","modelName":"3 Series
+        Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":101288739,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":101288740,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"}]},{"id":100538029,"year":2012,"styles":[{"id":101386360,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":101420164,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"}]},{"id":100535269,"year":2013,"styles":[{"id":200423469,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":101414454,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200423804,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200423805,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200459518,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200460586,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200423475,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 6M)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"}]},{"id":200468552,"year":2014,"styles":[{"id":200489829,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200489830,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200489831,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200489817,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"},{"id":200489818,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200489825,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200489823,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200489827,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200489821,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200489833,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200489835,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"}]},{"id":200704009,"year":2015,"styles":[{"id":200704023,"name":"ActiveHybrid
+        3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)","submodel":{"body":"Sedan","fuel":"Hybrid","modelName":"3
+        Series Hybrid","niceName":"hybrid"},"trim":"ActiveHybrid 3"},{"id":200704021,"name":"335i
+        4dr Sedan (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i"},{"id":200704022,"name":"335i
+        xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"335i xDrive"},{"id":200704019,"name":"328d
+        4dr Sedan (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d"},{"id":200704020,"name":"328d
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)","submodel":{"body":"Sedan","fuel":"Diesel","modelName":"3
+        Series Diesel","niceName":"diesel"},"trim":"328d xDrive"},{"id":200704017,"name":"328i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive"},{"id":200704018,"name":"328i
+        xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i xDrive SULEV"},{"id":200704016,"name":"328i
+        SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i SULEV"},{"id":200704015,"name":"328i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"328i"},{"id":200704014,"name":"320i
+        xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i xDrive"},{"id":200704013,"name":"320i
+        4dr Sedan (2.0L 4cyl Turbo 8A)","submodel":{"body":"Sedan","modelName":"3
+        Series Sedan","niceName":"sedan"},"trim":"320i"}]}]}'
+    http_version: 
+  recorded_at: Fri, 10 Oct 2014 18:28:38 GMT
+recorded_with: VCR 2.9.3

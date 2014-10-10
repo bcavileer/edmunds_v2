@@ -1,0 +1,135 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+models:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_3_Series
+  name: 3 Series
+  niceName: 3-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3328
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 222
+      name: 325iX 4dr Sedan AWD
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325iX
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 220
+      name: 325iX 2dr Coupe AWD
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Coupe
+        modelName: 3 Series Coupe
+        niceName: coupe
+      trim: 325iX
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 218
+      name: 325is 2dr Coupe
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Coupe
+        modelName: 3 Series Coupe
+        niceName: coupe
+      trim: 325is
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 215
+      name: 325i 2dr Coupe
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Coupe
+        modelName: 3 Series Coupe
+        niceName: coupe
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 216
+      name: 325i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 3 Series Sedan
+        niceName: sedan
+      trim: 325i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 213
+      name: 325i 2dr Convertible
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Convertible
+        modelName: 3 Series Convertible
+        niceName: convertible
+      trim: 325i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_5_Series
+  name: 5 Series
+  niceName: 5-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3213
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 224
+      name: 525i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 525i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 226
+      name: 535i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 5 Series Sedan
+        niceName: sedan
+      trim: 535i
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_7_Series
+  name: 7 Series
+  niceName: 7-series
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 3220
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 232
+      name: 735i 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735i
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 235
+      name: 750iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 750iL
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 233
+      name: 735iL 4dr Sedan
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Sedan
+        modelName: 7 Series Sedan
+        niceName: sedan
+      trim: 735iL
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  id: BMW_M3
+  name: M3
+  niceName: m3
+  years:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: 100002612
+    year: 1990
+    styles:
+    - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      id: 231
+      name: 2dr Coupe
+      submodel: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        body: Coupe
+        modelName: M3 Coupe
+        niceName: coupe
+      trim: Base
+modelsCount: 4
