@@ -1,0 +1,716 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Module: Edmunds::Vehicle::Specification::EngineAndTransmission
+  
+    &mdash; Documentation by YARD 0.8.7.4
+  
+</title>
+
+  <link rel="stylesheet" href="../../../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../../../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../../../';
+  framesUrl = "../../../frames.html#!Edmunds/Vehicle/Specification/EngineAndTransmission.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../../../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../../../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../../_index.html">Index (E)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../../../Edmunds.html" title="Edmunds (module)">Edmunds</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../../Vehicle.html" title="Edmunds::Vehicle (module)">Vehicle</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../Specification.html" title="Edmunds::Vehicle::Specification (module)">Specification</a></span></span>
+     &raquo; 
+    <span class="title">EngineAndTransmission</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../../../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../../../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../../../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Module: Edmunds::Vehicle::Specification::EngineAndTransmission
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+  
+    
+  
+    
+  
+  
+    <dt class="r1">Included in:</dt>
+    <dd class="r1"><span class='object_link'><a href="../../../Edmunds.html" title="Edmunds (module)">Edmunds</a></span></dd>
+    
+  
+  
+    <dt class="r2 last">Defined in:</dt>
+    <dd class="r2 last">lib/edmunds/vehicle/specification/engine_and_transmission.rb</dd>
+  
+</dl>
+<div class="clear"></div>
+
+
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#engine_id-instance_method" title="#engine_id (instance method)">- (Edmunds::Api::ResponseProxy) <strong>engine_id</strong>(id, raw_parameters = {}, &amp;block) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get engine details by ID.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#engines_by_style-instance_method" title="#engines_by_style (instance method)">- (Edmunds::Api::ResponseProxy) <strong>engines_by_style</strong>(style_id, raw_parameters = {}, &amp;block) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get the vehicle engines for a particular vehicle style.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#transmission_id-instance_method" title="#transmission_id (instance method)">- (Edmunds::Api::ResponseProxy) <strong>transmission_id</strong>(id, raw_parameters = {}, &amp;block) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get transmission details by ID.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#transmissions_by_style-instance_method" title="#transmissions_by_style (instance method)">- (Edmunds::Api::ResponseProxy) <strong>transmissions_by_style</strong>(style_id, raw_parameters = {}, &amp;block) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get the vehicle transmissions for a particular vehicle style.</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="engine_id-instance_method">
+  
+    - (<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>) <strong>engine_id</strong>(id, raw_parameters = {}, &amp;block) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get engine details by ID</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>id</span>
+      
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The Engine ID</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>raw_parameters</span>
+      
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+        <em class="default">(defaults to: <tt>{}</tt>)</em>
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>query parameters</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>response proxy object</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/edmunds/vehicle/specification/engine_and_transmission.rb', line 61</span>
+
+<span class='kw'>def</span> <span class='id identifier rubyid_engine_id'>engine_id</span><span class='lparen'>(</span><span class='id identifier rubyid_id'>id</span><span class='comma'>,</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span><span class='op'>=</span><span class='lbrace'>{</span><span class='rbrace'>}</span><span class='comma'>,</span> <span class='op'>&amp;</span><span class='id identifier rubyid_block'>block</span><span class='rparen'>)</span>
+  <span class='const'>Edmunds</span><span class='op'>::</span><span class='const'>Api</span><span class='period'>.</span><span class='id identifier rubyid_get'>get</span><span class='lparen'>(</span><span class='tstring'><span class='tstring_beg'>&quot;</span><span class='tstring_content'>/api/vehicle/v2/engines/</span><span class='embexpr_beg'>#{</span><span class='id identifier rubyid_id'>id</span><span class='rbrace'>}</span><span class='tstring_end'>&quot;</span></span><span class='rparen'>)</span> <span class='kw'>do</span> <span class='op'>|</span><span class='id identifier rubyid_request'>request</span><span class='op'>|</span>
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_raw_parameters'>raw_parameters</span> <span class='op'>=</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_allowed_parameters'>allowed_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span>
+        <span class='label'>fmt:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>json</span><span class='words_sep'>]</span>
+    <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_default_parameters'>default_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span> <span class='label'>fmt:</span> <span class='tstring'><span class='tstring_beg'>'</span><span class='tstring_content'>json</span><span class='tstring_end'>'</span></span> <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_required_parameters'>required_parameters</span> <span class='op'>=</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>fmt</span><span class='words_sep'>]</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_result_function'>result_function</span> <span class='op'>=</span> <span class='id identifier rubyid_block'>block</span>
+  <span class='kw'>end</span>
+<span class='kw'>end</span></pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="engines_by_style-instance_method">
+  
+    - (<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>) <strong>engines_by_style</strong>(style_id, raw_parameters = {}, &amp;block) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get the vehicle engines for a particular vehicle style. This will return
+all available engines and their details.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>style_id</span>
+      
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The vehicle style ID</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>raw_parameters</span>
+      
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+        <em class="default">(defaults to: <tt>{}</tt>)</em>
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>query parameters</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>response proxy object</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/edmunds/vehicle/specification/engine_and_transmission.rb', line 83</span>
+
+<span class='kw'>def</span> <span class='id identifier rubyid_engines_by_style'>engines_by_style</span><span class='lparen'>(</span><span class='id identifier rubyid_style_id'>style_id</span><span class='comma'>,</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span><span class='op'>=</span><span class='lbrace'>{</span><span class='rbrace'>}</span><span class='comma'>,</span> <span class='op'>&amp;</span><span class='id identifier rubyid_block'>block</span><span class='rparen'>)</span>
+  <span class='const'>Edmunds</span><span class='op'>::</span><span class='const'>Api</span><span class='period'>.</span><span class='id identifier rubyid_get'>get</span><span class='lparen'>(</span><span class='tstring'><span class='tstring_beg'>&quot;</span><span class='tstring_content'>/api/vehicle/v2/styles/</span><span class='embexpr_beg'>#{</span><span class='id identifier rubyid_style_id'>style_id</span><span class='rbrace'>}</span><span class='tstring_content'>/engines</span><span class='tstring_end'>&quot;</span></span><span class='rparen'>)</span> <span class='kw'>do</span> <span class='op'>|</span><span class='id identifier rubyid_request'>request</span><span class='op'>|</span>
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_raw_parameters'>raw_parameters</span> <span class='op'>=</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_allowed_parameters'>allowed_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span>
+        <span class='label'>name:</span> <span class='symbol'>:anything</span><span class='comma'>,</span>
+        <span class='label'>availability:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>optional</span><span class='words_sep'> </span><span class='tstring_content'>standard</span><span class='words_sep'>]</span><span class='comma'>,</span>
+        <span class='label'>fmt:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>json</span><span class='words_sep'>]</span>
+    <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_default_parameters'>default_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span> <span class='label'>fmt:</span> <span class='tstring'><span class='tstring_beg'>'</span><span class='tstring_content'>json</span><span class='tstring_end'>'</span></span> <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_required_parameters'>required_parameters</span> <span class='op'>=</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>fmt</span><span class='words_sep'>]</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_result_function'>result_function</span> <span class='op'>=</span> <span class='id identifier rubyid_block'>block</span>
+  <span class='kw'>end</span>
+<span class='kw'>end</span></pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="transmission_id-instance_method">
+  
+    - (<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>) <strong>transmission_id</strong>(id, raw_parameters = {}, &amp;block) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get transmission details by ID</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>id</span>
+      
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The Transmission ID</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>raw_parameters</span>
+      
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+        <em class="default">(defaults to: <tt>{}</tt>)</em>
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>query parameters</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>response proxy object</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/edmunds/vehicle/specification/engine_and_transmission.rb', line 15</span>
+
+<span class='kw'>def</span> <span class='id identifier rubyid_transmission_id'>transmission_id</span><span class='lparen'>(</span><span class='id identifier rubyid_id'>id</span><span class='comma'>,</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span><span class='op'>=</span><span class='lbrace'>{</span><span class='rbrace'>}</span><span class='comma'>,</span> <span class='op'>&amp;</span><span class='id identifier rubyid_block'>block</span><span class='rparen'>)</span>
+  <span class='const'>Edmunds</span><span class='op'>::</span><span class='const'>Api</span><span class='period'>.</span><span class='id identifier rubyid_get'>get</span><span class='lparen'>(</span><span class='tstring'><span class='tstring_beg'>&quot;</span><span class='tstring_content'>/api/vehicle/v2/transmissions/</span><span class='embexpr_beg'>#{</span><span class='id identifier rubyid_id'>id</span><span class='rbrace'>}</span><span class='tstring_end'>&quot;</span></span><span class='rparen'>)</span> <span class='kw'>do</span> <span class='op'>|</span><span class='id identifier rubyid_request'>request</span><span class='op'>|</span>
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_raw_parameters'>raw_parameters</span> <span class='op'>=</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_allowed_parameters'>allowed_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span>
+        <span class='label'>fmt:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>json</span><span class='words_sep'>]</span>
+    <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_default_parameters'>default_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span> <span class='label'>fmt:</span> <span class='tstring'><span class='tstring_beg'>'</span><span class='tstring_content'>json</span><span class='tstring_end'>'</span></span> <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_required_parameters'>required_parameters</span> <span class='op'>=</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>fmt</span><span class='words_sep'>]</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_result_function'>result_function</span> <span class='op'>=</span> <span class='id identifier rubyid_block'>block</span>
+  <span class='kw'>end</span>
+<span class='kw'>end</span></pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="transmissions_by_style-instance_method">
+  
+    - (<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>) <strong>transmissions_by_style</strong>(style_id, raw_parameters = {}, &amp;block) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get the vehicle transmissions for a particular vehicle style. This will
+return all available transmissions and their details.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>style_id</span>
+      
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The vehicle style ID</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>raw_parameters</span>
+      
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+        <em class="default">(defaults to: <tt>{}</tt>)</em>
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>query parameters</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="../../Api/ResponseProxy.html" title="Edmunds::Api::ResponseProxy (class)">Edmunds::Api::ResponseProxy</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>response proxy object</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/edmunds/vehicle/specification/engine_and_transmission.rb', line 37</span>
+
+<span class='kw'>def</span> <span class='id identifier rubyid_transmissions_by_style'>transmissions_by_style</span><span class='lparen'>(</span><span class='id identifier rubyid_style_id'>style_id</span><span class='comma'>,</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span><span class='op'>=</span><span class='lbrace'>{</span><span class='rbrace'>}</span><span class='comma'>,</span> <span class='op'>&amp;</span><span class='id identifier rubyid_block'>block</span><span class='rparen'>)</span>
+  <span class='const'>Edmunds</span><span class='op'>::</span><span class='const'>Api</span><span class='period'>.</span><span class='id identifier rubyid_get'>get</span><span class='lparen'>(</span><span class='tstring'><span class='tstring_beg'>&quot;</span><span class='tstring_content'>/api/vehicle/v2/styles/</span><span class='embexpr_beg'>#{</span><span class='id identifier rubyid_style_id'>style_id</span><span class='rbrace'>}</span><span class='tstring_content'>/transmissions</span><span class='tstring_end'>&quot;</span></span><span class='rparen'>)</span> <span class='kw'>do</span> <span class='op'>|</span><span class='id identifier rubyid_request'>request</span><span class='op'>|</span>
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_raw_parameters'>raw_parameters</span> <span class='op'>=</span> <span class='id identifier rubyid_raw_parameters'>raw_parameters</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_allowed_parameters'>allowed_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span>
+        <span class='label'>name:</span> <span class='symbol'>:anything</span><span class='comma'>,</span>
+        <span class='label'>availability:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>optional</span><span class='words_sep'> </span><span class='tstring_content'>standard</span><span class='words_sep'>]</span><span class='comma'>,</span>
+        <span class='label'>fmt:</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>json</span><span class='words_sep'>]</span>
+    <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_default_parameters'>default_parameters</span> <span class='op'>=</span> <span class='lbrace'>{</span> <span class='label'>fmt:</span> <span class='tstring'><span class='tstring_beg'>'</span><span class='tstring_content'>json</span><span class='tstring_end'>'</span></span> <span class='rbrace'>}</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_required_parameters'>required_parameters</span> <span class='op'>=</span> <span class='qwords_beg'>%w[</span><span class='tstring_content'>fmt</span><span class='words_sep'>]</span>
+
+    <span class='id identifier rubyid_request'>request</span><span class='period'>.</span><span class='id identifier rubyid_result_function'>result_function</span> <span class='op'>=</span> <span class='id identifier rubyid_block'>block</span>
+  <span class='kw'>end</span>
+<span class='kw'>end</span></pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Fri Oct 10 18:54:19 2014 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.4 (ruby-1.9.3).
+</div>
+
+  </body>
+</html>
