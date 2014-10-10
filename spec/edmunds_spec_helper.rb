@@ -20,7 +20,7 @@ unless ENV['VCR_OFF']
     c.hook_into :webmock
     c.filter_sensitive_data('EDMUNDS_API_KEY') { ENV['EDMUNDS_API_KEY'] }
     c.ignore_hosts 'codeclimate.com'
-    
+
     # filter sensitive response headers from API
     c.before_record do |i|
       i.response.headers.delete('Set-Cookie')

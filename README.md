@@ -4,8 +4,6 @@ Ruby wrapper for the Edmunds Vehicle API (V2)
 
 [ ![Codeship Status for bcavileer/edmunds_v2](https://codeship.io/projects/d71112a0-32ff-0132-09be-06d5924e9902/status)](https://codeship.io/projects/40542)
 
-[![Coverage Status](https://coveralls.io/repos/bcavileer/edmunds_v2/badge.png)](https://coveralls.io/r/bcavileer/edmunds_v2)
-
 ## Installation
 
 Add this line to your application's Gemfile:
