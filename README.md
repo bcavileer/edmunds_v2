@@ -2,7 +2,9 @@
 
 Ruby wrapper for the Edmunds Vehicle API (V2)
 
-[ ![Codeship Status for bcavileer/edmunds_v2](https://codeship.io/projects/d71112a0-32ff-0132-09be-06d5924e9902/status)](https://codeship.io/projects/40542)
+[![Codeship Status for bcavileer/edmunds_v2](https://codeship.io/projects/d71112a0-32ff-0132-09be-06d5924e9902/status)](https://codeship.io/projects/40542)
+[![Code Climate](https://codeclimate.com/github/bcavileer/edmunds_v2/badges/gpa.svg)](https://codeclimate.com/github/bcavileer/edmunds_v2)
+[![Test Coverage](https://codeclimate.com/github/bcavileer/edmunds_v2/badges/coverage.svg)](https://codeclimate.com/github/bcavileer/edmunds_v2)
 
 ## Installation
 
